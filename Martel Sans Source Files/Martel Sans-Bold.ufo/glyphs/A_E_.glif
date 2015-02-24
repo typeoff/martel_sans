@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="AE" format="1">
+  <advance width="1013"/>
+  <unicode hex="00C6"/>
+  <outline>
+    <contour>
+      <point x="166" y="0" type="line"/>
+      <point x="562" y="680" type="line"/>
+      <point x="405" y="680" type="line"/>
+      <point x="-15" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="963" y="0" type="line"/>
+      <point x="963" y="125" type="line"/>
+      <point x="593" y="125" type="line"/>
+      <point x="593" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="682" y="0" type="line"/>
+      <point x="682" y="680" type="line"/>
+      <point x="502" y="680" type="line"/>
+      <point x="502" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="535" y="217" type="line"/>
+      <point x="592" y="282" type="line"/>
+      <point x="903" y="282" type="line"/>
+      <point x="903" y="407" type="line"/>
+      <point x="613" y="407" type="line"/>
+      <point x="541" y="342" type="line"/>
+      <point x="293" y="342" type="line"/>
+      <point x="293" y="217" type="line"/>
+    </contour>
+    <contour>
+      <point x="943" y="555" type="line"/>
+      <point x="943" y="680" type="line"/>
+      <point x="593" y="680" type="line"/>
+      <point x="593" y="555" type="line"/>
+    </contour>
+    <contour>
+      <point x="592" y="730" type="move" name="top"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>background</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>AE</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>979</integer>
+        </dict>
+        <key>layer_01</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>AE</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>979</integer>
+        </dict>
+        <key>layer_02</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>AE</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>979</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

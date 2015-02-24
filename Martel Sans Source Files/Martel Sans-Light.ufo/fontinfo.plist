@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ascender</key>
+	<integer>1046</integer>
+	<key>capHeight</key>
+	<integer>680</integer>
+	<key>copyright</key>
+	<string>Copyright © 2015 by Dan Reynolds. All rights reserved.</string>
+	<key>descender</key>
+	<integer>-500</integer>
+	<key>familyName</key>
+	<string>Martel Sans</string>
+	<key>license</key>
+	<string>This Font Software is licensed under the SIL Open Font License Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL</string>
+	<key>licenseURL</key>
+	<string>http://scripts.sil.org/OFL</string>
+	<key>openTypeHeadCreated</key>
+	<string>2015/02/18 06:08:20</string>
+	<key>openTypeNameDesigner</key>
+	<string>Dan Reynolds and Mathieu Réguer</string>
+	<key>openTypeNameDesignerURL</key>
+	<string>https://github.com/typeoff/martel_sans</string>
+	<key>openTypeNameManufacturer</key>
+	<string>Dan Reynolds and Mathieu Réguer</string>
+	<key>openTypeNameManufacturerURL</key>
+	<string>http://www.typeoff.de</string>
+	<key>openTypeNamePreferredFamilyName</key>
+	<string>Martel Sans</string>
+	<key>openTypeNamePreferredSubfamilyName</key>
+	<string>UltraLight</string>
+	<key>openTypeOS2WeightClass</key>
+	<integer>250</integer>
+	<key>openTypeOS2WidthClass</key>
+	<integer>5</integer>
+	<key>postscriptBlueValues</key>
+	<array>
+		<integer>-15</integer>
+		<integer>0</integer>
+		<integer>500</integer>
+		<integer>515</integer>
+		<integer>634</integer>
+		<integer>649</integer>
+		<integer>1046</integer>
+		<integer>1061</integer>
+	</array>
+	<key>postscriptOtherBlues</key>
+	<array>
+		<integer>-515</integer>
+		<integer>-500</integer>
+	</array>
+	<key>postscriptStemSnapH</key>
+	<array>
+		<integer>47</integer>
+		<integer>44</integer>
+	</array>
+	<key>postscriptStemSnapV</key>
+	<array>
+		<integer>54</integer>
+		<integer>51</integer>
+		<integer>56</integer>
+	</array>
+	<key>styleMapStyleName</key>
+	<string>regular</string>
+	<key>styleName</key>
+	<string>Regular</string>
+	<key>unitsPerEm</key>
+	<integer>1000</integer>
+	<key>vendorID</key>
+	<string>toff</string>
+	<key>versionMajor</key>
+	<integer>1</integer>
+	<key>versionMinor</key>
+	<integer>0</integer>
+	<key>xHeight</key>
+	<integer>520</integer>
+</dict>
+</plist>

@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ring" format="1">
+  <advance width="500"/>
+  <unicode hex="02DA"/>
+  <outline>
+    <contour>
+      <point x="350" y="605"/>
+      <point x="402" y="666"/>
+      <point x="402" y="726" type="curve"/>
+      <point x="402" y="787"/>
+      <point x="350" y="847"/>
+      <point x="250" y="847" type="curve"/>
+      <point x="150" y="847"/>
+      <point x="98" y="787"/>
+      <point x="98" y="726" type="curve"/>
+      <point x="98" y="666"/>
+      <point x="150" y="605"/>
+      <point x="250" y="605" type="curve"/>
+    </contour>
+    <contour>
+      <point x="221" y="678"/>
+      <point x="203" y="699"/>
+      <point x="203" y="726" type="curve"/>
+      <point x="203" y="753"/>
+      <point x="221" y="774"/>
+      <point x="250" y="774" type="curve"/>
+      <point x="279" y="774"/>
+      <point x="297" y="753"/>
+      <point x="297" y="726" type="curve"/>
+      <point x="297" y="699"/>
+      <point x="279" y="678"/>
+      <point x="250" y="678" type="curve"/>
+    </contour>
+    <contour>
+      <point x="250" y="600" type="move" name="_top"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>background</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>ring</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>500</integer>
+        </dict>
+        <key>layer_01</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>ring</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>500</integer>
+        </dict>
+        <key>layer_02</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>ring</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>500</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

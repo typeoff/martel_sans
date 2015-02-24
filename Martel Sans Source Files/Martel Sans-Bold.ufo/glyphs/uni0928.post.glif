@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni0928.post" format="1">
+  <advance width="0"/>
+  <outline>
+    <contour>
+      <point x="-448" y="-57"/>
+      <point x="-397" y="-35"/>
+      <point x="-357" y="15" type="curve"/>
+      <point x="-441" y="139" type="line"/>
+      <point x="-470" y="47" type="line"/>
+      <point x="-184" y="221" type="line"/>
+      <point x="-256" y="327" type="line"/>
+      <point x="-545" y="151" type="line" smooth="yes"/>
+      <point x="-589" y="124"/>
+      <point x="-608" y="89"/>
+      <point x="-608" y="54" type="curve" smooth="yes"/>
+      <point x="-608" y="-4"/>
+      <point x="-560" y="-57"/>
+      <point x="-493" y="-57" type="curve" smooth="yes"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>background</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>na-deva.post</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>0</integer>
+        </dict>
+        <key>layer_01</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>na-deva.post</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>0</integer>
+        </dict>
+        <key>layer_02</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>na-deva.post</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>0</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

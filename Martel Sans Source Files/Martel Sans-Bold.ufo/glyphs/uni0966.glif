@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni0966" format="1">
+  <advance width="631"/>
+  <unicode hex="0966"/>
+  <outline>
+    <contour>
+      <point x="480" y="69"/>
+      <point x="557" y="175"/>
+      <point x="557" y="302" type="curve" smooth="yes"/>
+      <point x="557" y="429"/>
+      <point x="480" y="535"/>
+      <point x="315" y="535" type="curve" smooth="yes"/>
+      <point x="150" y="535"/>
+      <point x="74" y="429"/>
+      <point x="74" y="302" type="curve" smooth="yes"/>
+      <point x="74" y="175"/>
+      <point x="150" y="69"/>
+      <point x="315" y="69" type="curve" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="263" y="198"/>
+      <point x="233" y="243"/>
+      <point x="233" y="302" type="curve" smooth="yes"/>
+      <point x="233" y="361"/>
+      <point x="263" y="406"/>
+      <point x="315" y="406" type="curve" smooth="yes"/>
+      <point x="367" y="406"/>
+      <point x="398" y="361"/>
+      <point x="398" y="302" type="curve" smooth="yes"/>
+      <point x="398" y="243"/>
+      <point x="367" y="198"/>
+      <point x="315" y="198" type="curve" smooth="yes"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>background</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>zero-deva</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>631</integer>
+        </dict>
+        <key>layer_01</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>zero-deva</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>631</integer>
+        </dict>
+        <key>layer_02</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>zero-deva</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>631</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

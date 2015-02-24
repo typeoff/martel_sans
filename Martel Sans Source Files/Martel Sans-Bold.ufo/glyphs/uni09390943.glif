@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni09390943" format="1">
+  <advance width="687"/>
+  <outline>
+    <contour>
+      <point x="285" y="274" type="line"/>
+      <point x="252" y="291"/>
+      <point x="222" y="308"/>
+      <point x="222" y="340" type="curve" smooth="yes"/>
+      <point x="222" y="360"/>
+      <point x="232" y="368"/>
+      <point x="268" y="368" type="curve" smooth="yes"/>
+      <point x="582" y="368" type="line"/>
+      <point x="582" y="549" type="line"/>
+      <point x="687" y="549" type="line"/>
+      <point x="687" y="677" type="line"/>
+      <point x="-20" y="677" type="line"/>
+      <point x="-20" y="549" type="line"/>
+      <point x="424" y="549" type="line"/>
+      <point x="424" y="496" type="line"/>
+      <point x="208" y="496" type="line" smooth="yes"/>
+      <point x="95" y="496"/>
+      <point x="64" y="436"/>
+      <point x="64" y="364" type="curve" smooth="yes"/>
+      <point x="64" y="279"/>
+      <point x="123" y="220"/>
+      <point x="224" y="180" type="curve"/>
+    </contour>
+    <contour>
+      <point x="447" y="-186" type="line"/>
+      <point x="286" y="-149"/>
+      <point x="234" y="-65"/>
+      <point x="234" y="28" type="curve" smooth="yes"/>
+      <point x="234" y="133"/>
+      <point x="303" y="206"/>
+      <point x="421" y="206" type="curve" smooth="yes"/>
+      <point x="460" y="206"/>
+      <point x="503" y="202"/>
+      <point x="503" y="183" type="curve"/>
+      <point x="503" y="143"/>
+      <point x="301" y="163"/>
+      <point x="301" y="8" type="curve" smooth="yes"/>
+      <point x="301" y="-68"/>
+      <point x="378" y="-135"/>
+      <point x="497" y="-135" type="curve" smooth="yes"/>
+      <point x="562" y="-135"/>
+      <point x="616" y="-113"/>
+      <point x="651" y="-87" type="curve"/>
+      <point x="597" y="24" type="line"/>
+      <point x="572" y="5"/>
+      <point x="527" y="-7"/>
+      <point x="495" y="-7" type="curve" smooth="yes"/>
+      <point x="459" y="-7"/>
+      <point x="436" y="2"/>
+      <point x="436" y="21" type="curve" smooth="yes"/>
+      <point x="436" y="69"/>
+      <point x="641" y="37"/>
+      <point x="641" y="179" type="curve" smooth="yes"/>
+      <point x="641" y="280"/>
+      <point x="557" y="334"/>
+      <point x="421" y="334" type="curve" smooth="yes"/>
+      <point x="203" y="334"/>
+      <point x="96" y="196"/>
+      <point x="96" y="28" type="curve" smooth="yes"/>
+      <point x="96" y="-161"/>
+      <point x="235" y="-273"/>
+      <point x="417" y="-309" type="curve"/>
+    </contour>
+    <contour>
+      <point x="58" y="-302" type="move" name="nukta"/>
+    </contour>
+    <contour>
+      <point x="503" y="677" type="move" name="top"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>background</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>ha_rVocalicMatra-deva</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>604</integer>
+        </dict>
+        <key>layer_01</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>ha_rVocalicMatra-deva</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>604</integer>
+        </dict>
+        <key>layer_02</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>ha_rVocalicMatra-deva</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>604</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

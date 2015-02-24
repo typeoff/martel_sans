@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="parenleft" format="1">
+  <advance width="360"/>
+  <unicode hex="0028"/>
+  <outline>
+    <contour>
+      <point x="327" y="-43" type="line"/>
+      <point x="279" y="27"/>
+      <point x="231" y="150"/>
+      <point x="231" y="294" type="curve"/>
+      <point x="231" y="430"/>
+      <point x="278" y="561"/>
+      <point x="328" y="630" type="curve"/>
+      <point x="226" y="714" type="line"/>
+      <point x="136" y="627"/>
+      <point x="55" y="481"/>
+      <point x="55" y="294" type="curve"/>
+      <point x="55" y="107"/>
+      <point x="136" y="-39"/>
+      <point x="226" y="-126" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>background</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>parenleft</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>290</integer>
+        </dict>
+        <key>layer_01</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>parenleft</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>290</integer>
+        </dict>
+        <key>layer_02</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>parenleft</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>290</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

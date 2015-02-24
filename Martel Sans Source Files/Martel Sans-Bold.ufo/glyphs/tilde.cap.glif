@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="tilde.cap" format="1">
+  <advance width="500"/>
+  <outline>
+    <contour>
+      <point x="154" y="770"/>
+      <point x="167" y="786"/>
+      <point x="185" y="786" type="curve" smooth="yes"/>
+      <point x="222" y="786"/>
+      <point x="267" y="740"/>
+      <point x="325" y="740" type="curve"/>
+      <point x="392" y="740"/>
+      <point x="443" y="817"/>
+      <point x="450" y="917" type="curve"/>
+      <point x="356" y="921" type="line"/>
+      <point x="346" y="881"/>
+      <point x="332" y="865"/>
+      <point x="315" y="865" type="curve"/>
+      <point x="273" y="865"/>
+      <point x="230" y="911"/>
+      <point x="175" y="911" type="curve" smooth="yes"/>
+      <point x="107" y="911"/>
+      <point x="57" y="845"/>
+      <point x="50" y="734" type="curve"/>
+      <point x="144" y="730" type="line"/>
+    </contour>
+    <contour>
+      <point x="250" y="730" type="move" name="_top"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>background</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>tilde.cap</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>500</integer>
+        </dict>
+        <key>layer_01</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>tilde.cap</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>500</integer>
+        </dict>
+        <key>layer_02</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>tilde.cap</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>500</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

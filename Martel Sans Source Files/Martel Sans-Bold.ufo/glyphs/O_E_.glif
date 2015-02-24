@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="OE" format="1">
+  <advance width="1018"/>
+  <unicode hex="0152"/>
+  <outline>
+    <contour>
+      <point x="596" y="0" type="line"/>
+      <point x="596" y="127" type="line"/>
+      <point x="405" y="127" type="line"/>
+      <point x="290" y="127"/>
+      <point x="225" y="215"/>
+      <point x="225" y="340" type="curve"/>
+      <point x="225" y="467"/>
+      <point x="290" y="553"/>
+      <point x="405" y="553" type="curve"/>
+      <point x="596" y="553" type="line"/>
+      <point x="596" y="680" type="line"/>
+      <point x="405" y="680" type="line"/>
+      <point x="169" y="680"/>
+      <point x="45" y="535"/>
+      <point x="45" y="339" type="curve"/>
+      <point x="45" y="148"/>
+      <point x="169" y="0"/>
+      <point x="405" y="0" type="curve"/>
+    </contour>
+    <contour>
+      <point x="968" y="0" type="line"/>
+      <point x="968" y="125" type="line"/>
+      <point x="598" y="125" type="line"/>
+      <point x="598" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="687" y="0" type="line"/>
+      <point x="687" y="680" type="line"/>
+      <point x="507" y="680" type="line"/>
+      <point x="507" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="908" y="297" type="line"/>
+      <point x="908" y="422" type="line"/>
+      <point x="598" y="422" type="line"/>
+      <point x="598" y="297" type="line"/>
+    </contour>
+    <contour>
+      <point x="948" y="555" type="line"/>
+      <point x="948" y="680" type="line"/>
+      <point x="598" y="680" type="line"/>
+      <point x="598" y="555" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>background</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>OE</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>1001</integer>
+        </dict>
+        <key>layer_01</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>OE</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>1001</integer>
+        </dict>
+        <key>layer_02</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>OE</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>1001</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

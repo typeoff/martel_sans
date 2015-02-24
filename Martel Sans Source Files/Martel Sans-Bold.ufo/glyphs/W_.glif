@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="W" format="1">
+  <advance width="1112"/>
+  <unicode hex="0057"/>
+  <outline>
+    <contour>
+      <point x="414" y="-5" type="line"/>
+      <point x="585" y="590" type="line"/>
+      <point x="511" y="590" type="line"/>
+      <point x="683" y="-5" type="line"/>
+      <point x="866" y="-5" type="line"/>
+      <point x="1102" y="680" type="line"/>
+      <point x="915" y="680" type="line"/>
+      <point x="750" y="85" type="line"/>
+      <point x="800" y="85" type="line"/>
+      <point x="636" y="680" type="line"/>
+      <point x="462" y="680" type="line"/>
+      <point x="299" y="85" type="line"/>
+      <point x="349" y="85" type="line"/>
+      <point x="193" y="680" type="line"/>
+      <point x="10" y="680" type="line"/>
+      <point x="231" y="-5" type="line"/>
+    </contour>
+    <contour>
+      <point x="548" y="730" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="548" y="-10" type="move" name="bottom"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>background</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>W</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>988</integer>
+        </dict>
+        <key>layer_01</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>W</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>988</integer>
+        </dict>
+        <key>layer_02</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>W</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>988</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

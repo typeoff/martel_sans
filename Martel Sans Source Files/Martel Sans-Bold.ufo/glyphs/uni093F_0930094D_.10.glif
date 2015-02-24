@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni093F0930094D.10" format="1">
+  <advance width="337"/>
+  <outline>
+    <contour>
+      <point x="1045" y="787" type="line"/>
+      <point x="995" y="829"/>
+      <point x="946" y="876"/>
+      <point x="946" y="936" type="curve" smooth="yes"/>
+      <point x="946" y="978"/>
+      <point x="964" y="1010"/>
+      <point x="1018" y="1010" type="curve" smooth="yes"/>
+      <point x="1049" y="1010"/>
+      <point x="1070" y="1001"/>
+      <point x="1087" y="993" type="curve"/>
+      <point x="1123" y="1102" type="line"/>
+      <point x="1094" y="1119"/>
+      <point x="1046" y="1137"/>
+      <point x="993" y="1137" type="curve" smooth="yes"/>
+      <point x="855" y="1137"/>
+      <point x="787" y="1064"/>
+      <point x="787" y="971" type="curve" smooth="yes"/>
+      <point x="787" y="895"/>
+      <point x="823" y="839"/>
+      <point x="881" y="787" type="curve"/>
+    </contour>
+    <component base="uni093F.10"/>
+    <contour>
+      <point x="1045" y="787" type="move" name="imatra"/>
+    </contour>
+    <contour>
+      <point x="1015" y="742" type="move" name="top"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>background</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>iMatra_reph-deva.10</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>287</integer>
+        </dict>
+        <key>layer_01</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>iMatra_reph-deva.10</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>287</integer>
+        </dict>
+        <key>layer_02</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>iMatra_reph-deva.10</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>287</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

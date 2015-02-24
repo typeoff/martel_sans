@@ -1,0 +1,197 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni09470930094D0902" format="1">
+  <advance width="0"/>
+  <outline>
+    <contour>
+      <point x="-117" y="628" type="line"/>
+      <point x="-148" y="692" type="line" smooth="yes"/>
+      <point x="-174" y="745"/>
+      <point x="-186" y="784"/>
+      <point x="-186" y="817" type="curve" smooth="yes"/>
+      <point x="-186" y="887"/>
+      <point x="-146" y="923"/>
+      <point x="-97" y="923" type="curve" smooth="yes"/>
+      <point x="-55" y="923"/>
+      <point x="-22" y="901"/>
+      <point x="11" y="870" type="curve"/>
+      <point x="38" y="909" type="line"/>
+      <point x="5" y="940"/>
+      <point x="-38" y="968"/>
+      <point x="-96" y="968" type="curve" smooth="yes"/>
+      <point x="-172" y="968"/>
+      <point x="-230" y="913"/>
+      <point x="-227" y="818" type="curve"/>
+      <point x="-215" y="820" type="line"/>
+      <point x="-263" y="922"/>
+      <point x="-307" y="968"/>
+      <point x="-376" y="968" type="curve" smooth="yes"/>
+      <point x="-405" y="968"/>
+      <point x="-429" y="961"/>
+      <point x="-449" y="949" type="curve"/>
+      <point x="-439" y="905" type="line"/>
+      <point x="-416" y="917"/>
+      <point x="-393" y="920"/>
+      <point x="-375" y="920" type="curve" smooth="yes"/>
+      <point x="-303" y="920"/>
+      <point x="-270" y="846"/>
+      <point x="-215" y="725" type="curve" smooth="yes"/>
+      <point x="-171" y="628" type="line"/>
+    </contour>
+    <contour>
+      <point x="-124" y="758"/>
+      <point x="-101" y="735"/>
+      <point x="-74" y="735" type="curve"/>
+      <point x="-47" y="735"/>
+      <point x="-24" y="758"/>
+      <point x="-24" y="785" type="curve"/>
+      <point x="-24" y="812"/>
+      <point x="-47" y="835"/>
+      <point x="-74" y="835" type="curve"/>
+      <point x="-101" y="835"/>
+      <point x="-124" y="812"/>
+      <point x="-124" y="785" type="curve"/>
+    </contour>
+    <contour>
+      <point x="-143" y="634" type="move" name="_top"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>background</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+            <dict>
+              <key>name</key>
+              <string>_top</string>
+              <key>x</key>
+              <string>-163</string>
+              <key>y</key>
+              <integer>634</integer>
+            </dict>
+          </array>
+          <key>components</key>
+          <array>
+            <dict>
+              <key>baseGlyph</key>
+              <string>eMatra_reph__deva</string>
+              <key>transformation</key>
+              <array>
+                <integer>1</integer>
+                <integer>0</integer>
+                <integer>0</integer>
+                <integer>1</integer>
+                <integer>0</integer>
+                <integer>0</integer>
+              </array>
+            </dict>
+          </array>
+          <key>contours</key>
+          <array>
+            <dict>
+              <key>points</key>
+              <array>
+                <dict>
+                  <key>segmentType</key>
+                  <string>line</string>
+                  <key>smooth</key>
+                  <integer>0</integer>
+                  <key>x</key>
+                  <string>-174</string>
+                  <key>y</key>
+                  <integer>794</integer>
+                </dict>
+                <dict>
+                  <key>segmentType</key>
+                  <string>line</string>
+                  <key>smooth</key>
+                  <integer>0</integer>
+                  <key>x</key>
+                  <string>-111</string>
+                  <key>y</key>
+                  <integer>731</integer>
+                </dict>
+                <dict>
+                  <key>segmentType</key>
+                  <string>line</string>
+                  <key>smooth</key>
+                  <integer>0</integer>
+                  <key>x</key>
+                  <string>-48</string>
+                  <key>y</key>
+                  <integer>794</integer>
+                </dict>
+                <dict>
+                  <key>segmentType</key>
+                  <string>line</string>
+                  <key>smooth</key>
+                  <integer>0</integer>
+                  <key>x</key>
+                  <string>-111</string>
+                  <key>y</key>
+                  <integer>857</integer>
+                </dict>
+              </array>
+            </dict>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>eMatra_reph_anusvara-deva</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>0</integer>
+        </dict>
+        <key>layer_01</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>eMatra_reph_anusvara-deva</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>0</integer>
+        </dict>
+        <key>layer_02</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>eMatra_reph_anusvara-deva</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>0</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

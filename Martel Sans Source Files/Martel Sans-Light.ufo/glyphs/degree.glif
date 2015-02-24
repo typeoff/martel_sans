@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="degree" format="1">
+  <advance width="427"/>
+  <unicode hex="00B0"/>
+  <outline>
+    <contour>
+      <point x="311" y="378"/>
+      <point x="367" y="452"/>
+      <point x="367" y="537" type="curve"/>
+      <point x="367" y="618"/>
+      <point x="311" y="694"/>
+      <point x="213" y="694" type="curve"/>
+      <point x="116" y="694"/>
+      <point x="60" y="618"/>
+      <point x="60" y="535" type="curve"/>
+      <point x="60" y="452"/>
+      <point x="116" y="378"/>
+      <point x="213" y="378" type="curve"/>
+    </contour>
+    <contour>
+      <point x="149" y="415"/>
+      <point x="104" y="467"/>
+      <point x="104" y="536" type="curve"/>
+      <point x="104" y="604"/>
+      <point x="149" y="657"/>
+      <point x="213" y="657" type="curve"/>
+      <point x="278" y="657"/>
+      <point x="323" y="604"/>
+      <point x="323" y="536" type="curve"/>
+      <point x="323" y="467"/>
+      <point x="278" y="415"/>
+      <point x="213" y="415" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>background</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>degree</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>360</integer>
+        </dict>
+        <key>layer_01</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>degree</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>360</integer>
+        </dict>
+        <key>layer_02</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>degree</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>360</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

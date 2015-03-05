@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ii_anusvara-deva" format="1">
+  <advance width="474"/>
+  <outline>
+    <component base="i-deva"/>
+    <component base="reph_anusvara-deva" xOffset="501"/>
+  </outline>
+</glyph>

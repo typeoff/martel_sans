@@ -1054,7 +1054,7 @@
 		<string>Scommaaccent</string>
 		<string>T</string>
 		<string>Tcaron</string>
-		<string>uni021A</string>
+		<string>Tcommaaccent</string>
 		<string>U</string>
 		<string>Uacute</string>
 		<string>Ucircumflex</string>
@@ -1110,7 +1110,7 @@
 		<string>h</string>
 		<string>hbar</string>
 		<string>i</string>
-		<string>dotlessi</string>
+		<string>idotless</string>
 		<string>iacute</string>
 		<string>icircumflex</string>
 		<string>idieresis</string>
@@ -1120,7 +1120,7 @@
 		<string>iogonek</string>
 		<string>itilde</string>
 		<string>j</string>
-		<string>uni0237</string>
+		<string>jdotless</string>
 		<string>jcircumflex</string>
 		<string>k</string>
 		<string>kcommaaccent</string>
@@ -1162,7 +1162,7 @@
 		<string>germandbls</string>
 		<string>t</string>
 		<string>tcaron</string>
-		<string>uni021B</string>
+		<string>tcommaaccent</string>
 		<string>u</string>
 		<string>uacute</string>
 		<string>ucircumflex</string>
@@ -1192,299 +1192,299 @@
 		<string>Omega</string>
 		<string>mu</string>
 		<string>pi</string>
-		<string>uni0972</string>
-		<string>uni0904</string>
-		<string>uni0905</string>
-		<string>uni0906</string>
-		<string>uni0907</string>
-		<string>uni0908</string>
-		<string>uni09080902</string>
-		<string>uni0909</string>
-		<string>uni090A</string>
-		<string>uni090B</string>
-		<string>uni0960</string>
-		<string>uni090C</string>
-		<string>uni0961</string>
-		<string>uni090D</string>
-		<string>uni090E</string>
-		<string>uni090F</string>
-		<string>uni0910</string>
-		<string>uni0911</string>
-		<string>uni0912</string>
-		<string>uni0913</string>
-		<string>uni0914</string>
-		<string>uni0973</string>
-		<string>uni0974</string>
-		<string>uni0976</string>
-		<string>uni0977</string>
-		<string>uni093E</string>
-		<string>uni093F</string>
-		<string>uni093F0902</string>
-		<string>uni093F0930094D</string>
-		<string>uni093F0930094D0902</string>
-		<string>uni0940</string>
-		<string>uni09400902</string>
-		<string>uni09400930094D</string>
-		<string>uni09400930094D0902</string>
-		<string>uni0949</string>
-		<string>uni094A</string>
-		<string>uni094B</string>
-		<string>uni094B0902</string>
-		<string>uni094B0930094D</string>
-		<string>uni094B0930094D0902</string>
-		<string>uni094C</string>
-		<string>uni094C0902</string>
-		<string>uni094C0930094D</string>
-		<string>uni094C0930094D0902</string>
-		<string>uni093B</string>
-		<string>uni093F.0</string>
-		<string>uni093F0902.0</string>
-		<string>uni093F0930094D.0</string>
-		<string>uni093F0930094D0902.0</string>
-		<string>uni093F.05</string>
-		<string>uni093F.10</string>
-		<string>uni093F0902.05</string>
-		<string>uni093F0902.10</string>
-		<string>uni093F0930094D.05</string>
-		<string>uni093F0930094D.10</string>
-		<string>uni093F0930094D0902.05</string>
-		<string>uni093F0930094D0902.10</string>
-		<string>uni0940.02</string>
-		<string>uni09400902.02</string>
-		<string>uni09400930094D.02</string>
-		<string>uni09400930094D0902.02</string>
-		<string>uni0915</string>
-		<string>uni0916</string>
-		<string>uni0917</string>
-		<string>uni0918</string>
-		<string>uni0919</string>
-		<string>uni091A</string>
-		<string>uni091B</string>
-		<string>uni091C</string>
-		<string>uni091D</string>
-		<string>uni091E</string>
-		<string>uni091F</string>
-		<string>uni0920</string>
-		<string>uni0921</string>
-		<string>uni0922</string>
-		<string>uni0923</string>
-		<string>uni0924</string>
-		<string>uni0925</string>
-		<string>uni0926</string>
-		<string>uni0927</string>
-		<string>uni0928</string>
-		<string>uni0929</string>
-		<string>uni092A</string>
-		<string>uni092B</string>
-		<string>uni092C</string>
-		<string>uni092D</string>
-		<string>uni092E</string>
-		<string>uni092F</string>
-		<string>uni0930</string>
-		<string>uni0931</string>
-		<string>uni0932</string>
-		<string>uni0933</string>
-		<string>uni0934</string>
-		<string>uni0935</string>
-		<string>uni0936</string>
-		<string>uni0937</string>
-		<string>uni0938</string>
-		<string>uni0939</string>
-		<string>uni0958</string>
-		<string>uni0959</string>
-		<string>uni095A</string>
-		<string>uni095B</string>
-		<string>uni095C</string>
-		<string>uni095D</string>
-		<string>uni095E</string>
-		<string>uni095F</string>
-		<string>uni0979</string>
-		<string>uni097A</string>
-		<string>uni097B</string>
-		<string>uni097C</string>
-		<string>uni097E</string>
-		<string>uni097F</string>
-		<string>uni0932.loclMAR</string>
-		<string>uni0936.loclMAR</string>
-		<string>uni091D.loclNEP</string>
-		<string>uni0979.loclNEP</string>
-		<string>uni0928.post</string>
-		<string>uni092F.post</string>
-		<string>uni0930.post</string>
-		<string>uni0935.post</string>
-		<string>uni0915094D0915</string>
-		<string>uni0915094D0924</string>
-		<string>uni0915094D0930</string>
-		<string>uni0915094D0932</string>
-		<string>uni0915094D0935</string>
-		<string>uni0915094D0937</string>
-		<string>uni0915094D0937094D</string>
-		<string>uni0915094D0937094D0930</string>
-		<string>uni0915094D0072</string>
-		<string>uni0916094D0930</string>
-		<string>uni0916094D0072</string>
-		<string>uni0917094D0928</string>
-		<string>uni0917094D0930</string>
-		<string>uni0917094D0072</string>
-		<string>uni0918094D0928</string>
-		<string>uni0918094D0930</string>
-		<string>uni0918094D0072</string>
-		<string>uni0919094D0915</string>
-		<string>uni0919094D0915094D</string>
-		<string>uni0919094D0915094D0937</string>
-		<string>uni0919094D0916</string>
-		<string>uni0919094D0917</string>
-		<string>uni0919094D0918</string>
-		<string>uni0919094D092E</string>
-		<string>uni0919094D0930</string>
-		<string>uni091A094D091A</string>
-		<string>uni091A094D091B</string>
-		<string>uni091A094D0930</string>
-		<string>uni091B094D0930</string>
-		<string>uni091B094D0935</string>
-		<string>uni091C094D091E094D</string>
-		<string>uni091C094D091C</string>
-		<string>uni091C094D091C094D</string>
-		<string>uni091C094D091E</string>
-		<string>uni091C094D091E094D</string>
-		<string>uni091C094D091E094D0930</string>
-		<string>uni091C094D0930</string>
-		<string>uni091D094D0930</string>
-		<string>uni091E094D091A</string>
-		<string>uni091E094D091C</string>
-		<string>uni091E094D0930</string>
-		<string>uni091F094D091F</string>
-		<string>uni091F094D0920</string>
-		<string>uni091F094D092F</string>
-		<string>uni091F094D0930</string>
-		<string>uni091F094D0935</string>
-		<string>uni0920094D0920</string>
-		<string>uni0920094D092F</string>
-		<string>uni0920094D0930</string>
-		<string>uni0920094D0072</string>
-		<string>uni0921094D0921</string>
-		<string>uni0921094D0922</string>
-		<string>uni0921094D092F</string>
-		<string>uni0921094D0930</string>
-		<string>uni0921094D0072</string>
-		<string>uni0922094D0922</string>
-		<string>uni0922094D092F</string>
-		<string>uni0922094D0930</string>
-		<string>uni0922094D0072</string>
-		<string>uni0923094D0930</string>
-		<string>uni0924094D0924</string>
-		<string>uni0924094D0924094D</string>
-		<string>uni0924094D092F</string>
-		<string>uni0924094D0930</string>
-		<string>uni0924094D0072</string>
-		<string>uni0925094D0930</string>
-		<string>uni0926094D0917</string>
-		<string>uni0926094D0918</string>
-		<string>uni0926094D0926</string>
-		<string>uni0926094D0927094D0930</string>
-		<string>uni0926094D0927094D0072092F</string>
-		<string>uni0926094D0928</string>
-		<string>uni0926094D092C</string>
-		<string>uni0926094D092D</string>
-		<string>uni0926094D092E</string>
-		<string>uni0926094D092F</string>
-		<string>uni0926094D0930</string>
-		<string>uni0926094D0935</string>
-		<string>uni0926094D0943</string>
-		<string>uni0927094D0930</string>
-		<string>uni0928094D0924094D0930</string>
-		<string>uni0928094D0928</string>
-		<string>uni0928094D092D</string>
-		<string>uni0928094D092E</string>
-		<string>uni0928094D0930</string>
-		<string>uni092A094D0924</string>
-		<string>uni092A094D0930</string>
-		<string>uni092A094D0932</string>
-		<string>uni092A094D0072</string>
-		<string>uni092B094D0930</string>
-		<string>uni092B094D0932</string>
-		<string>uni092C094D0930</string>
-		<string>uni092D094D0930</string>
-		<string>uni092E094D0930</string>
-		<string>uni092F094D0930</string>
-		<string>uni09300941</string>
-		<string>uni09300942</string>
-		<string>uni0932094D0930</string>
-		<string>uni0932094D0932</string>
-		<string>uni0933094D0930</string>
-		<string>uni0935094D0930</string>
-		<string>uni0936094D091A</string>
-		<string>uni0936094D0930</string>
-		<string>uni0936094D0932</string>
-		<string>uni0936094D0935</string>
-		<string>uni0936094D0943</string>
-		<string>uni0936094D0072</string>
-		<string>uni0936094D0072091A</string>
-		<string>uni0936094D00720928</string>
-		<string>uni0937094D091F</string>
-		<string>uni0937094D091F094D0930</string>
-		<string>uni0937094D0920</string>
-		<string>uni0937094D0920094D0930</string>
-		<string>uni0937094D0930</string>
-		<string>uni0938094D0924094D0930</string>
-		<string>uni0938094D0930</string>
-		<string>uni09390941</string>
-		<string>uni09390942</string>
-		<string>uni09390943</string>
-		<string>uni0939094D0923</string>
-		<string>uni0939094D0928</string>
-		<string>uni0939094D092E</string>
-		<string>uni0939094D092F</string>
-		<string>uni0939094D0930</string>
-		<string>uni0939094D0932</string>
-		<string>uni0939094D0935</string>
-		<string>uni095E094D0930</string>
-		<string>uni091C094D091E.akhn</string>
-		<string>uni0915094D0930.loclNEP</string>
-		<string>uni0915094D</string>
-		<string>uni0916094D</string>
-		<string>uni0917094D</string>
-		<string>uni0918094D</string>
-		<string>uni0919094D</string>
-		<string>uni091A094D</string>
-		<string>uni091B094D</string>
-		<string>uni091C094D</string>
-		<string>uni091D094D</string>
-		<string>uni091E094D</string>
-		<string>uni091F094D</string>
-		<string>uni0920094D</string>
-		<string>uni0921094D</string>
-		<string>uni0922094D</string>
-		<string>uni0923094D</string>
-		<string>uni0924094D</string>
-		<string>uni0925094D</string>
-		<string>uni0926094D</string>
-		<string>uni0927094D</string>
-		<string>uni0928094D</string>
-		<string>uni0929094D</string>
-		<string>uni092A094D</string>
-		<string>uni092B094D</string>
-		<string>uni092C094D</string>
-		<string>uni092D094D</string>
-		<string>uni092E094D</string>
-		<string>uni092F094D</string>
-		<string>uni0931094D</string>
-		<string>uni0932094D</string>
-		<string>uni0933094D</string>
-		<string>uni0934094D</string>
-		<string>uni0935094D</string>
-		<string>uni0936094D</string>
-		<string>uni0937094D</string>
-		<string>uni0938094D</string>
-		<string>uni0939094D</string>
-		<string>uni0958094D</string>
-		<string>uni0959094D</string>
-		<string>uni095A094D</string>
-		<string>uni095B094D</string>
-		<string>uni095E094D</string>
-		<string>uni0932094D.loclMAR</string>
-		<string>uni0936094D.loclMAR</string>
-		<string>uni091D094D.loclNEP</string>
+		<string>aCandra-deva</string>
+		<string>aShort-deva</string>
+		<string>a-deva</string>
+		<string>aa-deva</string>
+		<string>i-deva</string>
+		<string>ii-deva</string>
+		<string>ii_anusvara-deva</string>
+		<string>u-deva</string>
+		<string>uu-deva</string>
+		<string>rVocalic-deva</string>
+		<string>rrVocalic-deva</string>
+		<string>lVocalic-deva</string>
+		<string>llVocalic-deva</string>
+		<string>eCandra-deva</string>
+		<string>eShort-deva</string>
+		<string>e-deva</string>
+		<string>ai-deva</string>
+		<string>oCandra-deva</string>
+		<string>oShort-deva</string>
+		<string>o-deva</string>
+		<string>au-deva</string>
+		<string>oe-deva</string>
+		<string>ooe-deva</string>
+		<string>ue-deva</string>
+		<string>uue-deva</string>
+		<string>aaMatra-deva</string>
+		<string>iMatra-deva</string>
+		<string>iMatra_anusvara-deva</string>
+		<string>iMatra_reph-deva</string>
+		<string>iMatra_reph_anusvara-deva</string>
+		<string>iiMatra-deva</string>
+		<string>iiMatra_anusvara-deva</string>
+		<string>iiMatra_reph-deva</string>
+		<string>iiMatra_reph_anusvara-deva</string>
+		<string>oCandraMatra-deva</string>
+		<string>oShortMatra-deva</string>
+		<string>oMatra-deva</string>
+		<string>oMatra_anusvara-deva</string>
+		<string>oMatra_reph-deva</string>
+		<string>oMatra_reph_anusvara-deva</string>
+		<string>auMatra-deva</string>
+		<string>auMatra_anusvara-deva</string>
+		<string>auMatra_reph-deva</string>
+		<string>auMatra_reph_anusvara-deva</string>
+		<string>ooeMatra-deva</string>
+		<string>iMatra-deva.0</string>
+		<string>iMatra_anusvara-deva.0</string>
+		<string>iMatra_reph-deva.0</string>
+		<string>iMatra_reph_anusvara-deva.0</string>
+		<string>iMatra-deva.05</string>
+		<string>iMatra-deva.10</string>
+		<string>iMatra_anusvara-deva.05</string>
+		<string>iMatra_anusvara-deva.10</string>
+		<string>iMatra_reph-deva.05</string>
+		<string>iMatra_reph-deva.10</string>
+		<string>iMatra_reph_anusvara-deva.05</string>
+		<string>iMatra_reph_anusvara-deva.10</string>
+		<string>iiMatra-deva.02</string>
+		<string>iiMatra_anusvara-deva.02</string>
+		<string>iiMatra_reph-deva.02</string>
+		<string>iiMatra_reph_anusvara-deva.02</string>
+		<string>ka-deva</string>
+		<string>kha-deva</string>
+		<string>ga-deva</string>
+		<string>gha-deva</string>
+		<string>nga-deva</string>
+		<string>ca-deva</string>
+		<string>cha-deva</string>
+		<string>ja-deva</string>
+		<string>jha-deva</string>
+		<string>nya-deva</string>
+		<string>tta-deva</string>
+		<string>ttha-deva</string>
+		<string>dda-deva</string>
+		<string>ddha-deva</string>
+		<string>nna-deva</string>
+		<string>ta-deva</string>
+		<string>tha-deva</string>
+		<string>da-deva</string>
+		<string>dha-deva</string>
+		<string>na-deva</string>
+		<string>nnna-deva</string>
+		<string>pa-deva</string>
+		<string>pha-deva</string>
+		<string>ba-deva</string>
+		<string>bha-deva</string>
+		<string>ma-deva</string>
+		<string>ya-deva</string>
+		<string>ra-deva</string>
+		<string>rra-deva</string>
+		<string>la-deva</string>
+		<string>lla-deva</string>
+		<string>llla-deva</string>
+		<string>va-deva</string>
+		<string>sha-deva</string>
+		<string>ssa-deva</string>
+		<string>sa-deva</string>
+		<string>ha-deva</string>
+		<string>qa-deva</string>
+		<string>khha-deva</string>
+		<string>ghha-deva</string>
+		<string>za-deva</string>
+		<string>dddha-deva</string>
+		<string>rha-deva</string>
+		<string>fa-deva</string>
+		<string>yya-deva</string>
+		<string>zha-deva</string>
+		<string>jjya-deva</string>
+		<string>gga-deva</string>
+		<string>jja-deva</string>
+		<string>ddda-deva</string>
+		<string>bba-deva</string>
+		<string>la-deva.loclMAR</string>
+		<string>sha-deva.loclMAR</string>
+		<string>jha-deva.loclNEP</string>
+		<string>zha-deva.loclNEP</string>
+		<string>na-deva.post</string>
+		<string>ya-deva.post</string>
+		<string>ra-deva.post</string>
+		<string>va-deva.post</string>
+		<string>k_ka-deva</string>
+		<string>k_ta-deva</string>
+		<string>k_ra-deva</string>
+		<string>k_la-deva</string>
+		<string>k_va-deva</string>
+		<string>k_ssa-deva</string>
+		<string>k_ss-deva</string>
+		<string>k_ss_ra-deva</string>
+		<string>k_r-deva</string>
+		<string>kh_ra-deva</string>
+		<string>kh_r-deva</string>
+		<string>g_na-deva</string>
+		<string>g_ra-deva</string>
+		<string>g_r-deva</string>
+		<string>gh_na-deva</string>
+		<string>gh_ra-deva</string>
+		<string>gh_r-deva</string>
+		<string>ng_ka-deva</string>
+		<string>ng_k-deva</string>
+		<string>ng_k_ssa-deva</string>
+		<string>ng_kha-deva</string>
+		<string>ng_ga-deva</string>
+		<string>ng_gha-deva</string>
+		<string>ng_ma-deva</string>
+		<string>ng_ra-deva</string>
+		<string>c_ca-deva</string>
+		<string>c_cha-deva</string>
+		<string>c_ra-deva</string>
+		<string>ch_ra-deva</string>
+		<string>ch_va-deva</string>
+		<string>ja_halant_nya_halant-deva</string>
+		<string>j_ja-deva</string>
+		<string>j_j-deva</string>
+		<string>j_nya-deva</string>
+		<string>j_ny-deva</string>
+		<string>j_ny_ra-deva</string>
+		<string>j_ra-deva</string>
+		<string>jh_ra-deva</string>
+		<string>ny_ca-deva</string>
+		<string>ny_ja-deva</string>
+		<string>ny_ra-deva</string>
+		<string>tt_tta-deva</string>
+		<string>tt_ttha-deva</string>
+		<string>tt_ya-deva</string>
+		<string>tt_ra-deva</string>
+		<string>tt_va-deva</string>
+		<string>tth_ttha-deva</string>
+		<string>tth_ya-deva</string>
+		<string>tth_ra-deva</string>
+		<string>tth_r-deva</string>
+		<string>dd_dda-deva</string>
+		<string>dd_ddha-deva</string>
+		<string>dd_ya-deva</string>
+		<string>dd_ra-deva</string>
+		<string>dd_r-deva</string>
+		<string>ddh_ddha-deva</string>
+		<string>ddh_ya-deva</string>
+		<string>ddh_ra-deva</string>
+		<string>ddh_r-deva</string>
+		<string>nn_ra-deva</string>
+		<string>t_ta-deva</string>
+		<string>t_t-deva</string>
+		<string>t_ya-deva</string>
+		<string>t_ra-deva</string>
+		<string>t_r-deva</string>
+		<string>th_ra-deva</string>
+		<string>d_ga-deva</string>
+		<string>d_gha-deva</string>
+		<string>d_da-deva</string>
+		<string>d_dh_ra-deva</string>
+		<string>d_dh_r_ya-deva</string>
+		<string>d_na-deva</string>
+		<string>d_ba-deva</string>
+		<string>d_bha-deva</string>
+		<string>d_ma-deva</string>
+		<string>d_ya-deva</string>
+		<string>d_ra-deva</string>
+		<string>d_va-deva</string>
+		<string>d_rVocalicMatra-deva</string>
+		<string>dh_ra-deva</string>
+		<string>n_t_ra-deva</string>
+		<string>n_na-deva</string>
+		<string>n_bha-deva</string>
+		<string>n_ma-deva</string>
+		<string>n_ra-deva</string>
+		<string>p_ta-deva</string>
+		<string>p_ra-deva</string>
+		<string>p_la-deva</string>
+		<string>p_r-deva</string>
+		<string>ph_ra-deva</string>
+		<string>ph_la-deva</string>
+		<string>b_ra-deva</string>
+		<string>bh_ra-deva</string>
+		<string>m_ra-deva</string>
+		<string>y_ra-deva</string>
+		<string>ra_uMatra-deva</string>
+		<string>ra_uuMatra-deva</string>
+		<string>l_ra-deva</string>
+		<string>l_la-deva</string>
+		<string>ll_ra-deva</string>
+		<string>v_ra-deva</string>
+		<string>sh_ca-deva</string>
+		<string>sh_ra-deva</string>
+		<string>sh_la-deva</string>
+		<string>sh_va-deva</string>
+		<string>sh_rVocalicMatra-deva</string>
+		<string>sh_r-deva</string>
+		<string>sh_r_ca-deva</string>
+		<string>sh_r_na-deva</string>
+		<string>ss_tta-deva</string>
+		<string>ss_tt_ra-deva</string>
+		<string>ss_ttha-deva</string>
+		<string>ss_tth_ra-deva</string>
+		<string>ss_ra-deva</string>
+		<string>s_t_ra-deva</string>
+		<string>s_ra-deva</string>
+		<string>ha_uMatra-deva</string>
+		<string>ha_uuMatra-deva</string>
+		<string>ha_rVocalicMatra-deva</string>
+		<string>h_nna-deva</string>
+		<string>h_na-deva</string>
+		<string>h_ma-deva</string>
+		<string>h_ya-deva</string>
+		<string>h_ra-deva</string>
+		<string>h_la-deva</string>
+		<string>h_va-deva</string>
+		<string>f_ra-deva</string>
+		<string>j_nya-deva.akhn</string>
+		<string>k_ra-deva.loclNEP</string>
+		<string>k-deva</string>
+		<string>kh-deva</string>
+		<string>g-deva</string>
+		<string>gh-deva</string>
+		<string>ng-deva</string>
+		<string>c-deva</string>
+		<string>ch-deva</string>
+		<string>j-deva</string>
+		<string>jh-deva</string>
+		<string>ny-deva</string>
+		<string>tt-deva</string>
+		<string>tth-deva</string>
+		<string>dd-deva</string>
+		<string>ddh-deva</string>
+		<string>nn-deva</string>
+		<string>t-deva</string>
+		<string>th-deva</string>
+		<string>d-deva</string>
+		<string>dh-deva</string>
+		<string>n-deva</string>
+		<string>nnn-deva</string>
+		<string>p-deva</string>
+		<string>ph-deva</string>
+		<string>b-deva</string>
+		<string>bh-deva</string>
+		<string>m-deva</string>
+		<string>y-deva</string>
+		<string>rr-deva</string>
+		<string>l-deva</string>
+		<string>ll-deva</string>
+		<string>lll-deva</string>
+		<string>v-deva</string>
+		<string>sh-deva</string>
+		<string>ss-deva</string>
+		<string>s-deva</string>
+		<string>h-deva</string>
+		<string>q-deva</string>
+		<string>khh-deva</string>
+		<string>ghh-deva</string>
+		<string>z-deva</string>
+		<string>f-deva</string>
+		<string>l-deva.loclMAR</string>
+		<string>sh-deva.loclMAR</string>
+		<string>jh-deva.loclNEP</string>
 		<string>zero</string>
 		<string>one</string>
 		<string>two</string>
@@ -1495,27 +1495,28 @@
 		<string>seven</string>
 		<string>eight</string>
 		<string>nine</string>
+		<string>two.offenbach</string>
 		<string>zero.superior</string>
 		<string>four.superior</string>
 		<string>fraction</string>
 		<string>onehalf</string>
 		<string>onequarter</string>
 		<string>threequarters</string>
-		<string>uni00B9</string>
-		<string>uni00B2</string>
-		<string>uni00B3</string>
-		<string>uni0966</string>
-		<string>uni0967</string>
-		<string>uni0968</string>
-		<string>uni0969</string>
-		<string>uni096A</string>
-		<string>uni096B</string>
-		<string>uni096C</string>
-		<string>uni096D</string>
-		<string>uni096E</string>
-		<string>uni096F</string>
-		<string>uni096B.loclNEP</string>
-		<string>uni096E.loclNEP</string>
+		<string>onesuperior</string>
+		<string>twosuperior</string>
+		<string>threesuperior</string>
+		<string>zero-deva</string>
+		<string>one-deva</string>
+		<string>two-deva</string>
+		<string>three-deva</string>
+		<string>four-deva</string>
+		<string>five-deva</string>
+		<string>six-deva</string>
+		<string>seven-deva</string>
+		<string>eight-deva</string>
+		<string>nine-deva</string>
+		<string>five-deva.loclNEP</string>
+		<string>eight-deva.loclNEP</string>
 		<string>asterisk</string>
 		<string>backslash</string>
 		<string>periodcentered</string>
@@ -1543,9 +1544,9 @@
 		<string>emdash</string>
 		<string>endash</string>
 		<string>hyphen</string>
-		<string>uni00AD</string>
-		<string>guillemotleft</string>
-		<string>guillemotright</string>
+		<string>softhyphen</string>
+		<string>guillemetleft</string>
+		<string>guillemetright</string>
 		<string>guilsinglleft</string>
 		<string>guilsinglright</string>
 		<string>quotedblbase</string>
@@ -1554,26 +1555,26 @@
 		<string>quoteleft</string>
 		<string>quoteright</string>
 		<string>quotesinglbase</string>
-		<string>uni097D</string>
-		<string>uni0964</string>
-		<string>uni0965</string>
-		<string>uni0970</string>
-		<string>uni0971</string>
-		<string>uni2001</string>
-		<string>uni2003</string>
-		<string>uni2000</string>
-		<string>uni2002</string>
-		<string>uni2007</string>
-		<string>uni2005</string>
-		<string>uni200A</string>
-		<string>uni2008</string>
-		<string>uni2006</string>
+		<string>glottalstop-deva</string>
+		<string>danda-deva</string>
+		<string>dbldanda-deva</string>
+		<string>abbreviation-deva</string>
+		<string>highspacingdot-deva</string>
+		<string>emquad</string>
+		<string>emspace</string>
+		<string>enquad</string>
+		<string>enspace</string>
+		<string>figurespace</string>
+		<string>fourperemspace</string>
+		<string>hairspace</string>
+		<string>punctuationspace</string>
+		<string>sixperemspace</string>
 		<string>space</string>
-		<string>uni00A0</string>
-		<string>uni2009</string>
-		<string>uni2004</string>
-		<string>uni200D</string>
-		<string>uni200C</string>
+		<string>nbspace</string>
+		<string>thinspace</string>
+		<string>threeperemspace</string>
+		<string>zerowidthjoiner</string>
+		<string>zerowidthnonjoiner</string>
 		<string>CR</string>
 		<string>DEL</string>
 		<string>.notdef</string>
@@ -1581,9 +1582,9 @@
 		<string>cent</string>
 		<string>currency</string>
 		<string>dollar</string>
-		<string>Euro</string>
+		<string>euro</string>
 		<string>florin</string>
-		<string>uni20B9</string>
+		<string>rupeeIndian</string>
 		<string>sterling</string>
 		<string>yen</string>
 		<string>cent.bold</string>
@@ -1594,7 +1595,7 @@
 		<string>equal</string>
 		<string>greater</string>
 		<string>greaterequal</string>
-		<string>uni2206</string>
+		<string>increment</string>
 		<string>infinity</string>
 		<string>integral</string>
 		<string>less</string>
@@ -1611,7 +1612,7 @@
 		<string>product</string>
 		<string>radical</string>
 		<string>summation</string>
-		<string>uni25CC</string>
+		<string>dottedCircle</string>
 		<string>lozenge</string>
 		<string>bar</string>
 		<string>brokenbar</string>
@@ -1626,10 +1627,10 @@
 		<string>asciicircum</string>
 		<string>dagger</string>
 		<string>daggerdbl</string>
-		<string>uni093D</string>
-		<string>uni0950</string>
-		<string>uni0326</string>
-		<string>uni0326.alt</string>
+		<string>avagraha-deva</string>
+		<string>om-deva</string>
+		<string>commaaccent</string>
+		<string>commaaccent.alt</string>
 		<string>acute</string>
 		<string>breve</string>
 		<string>caron</string>
@@ -1654,42 +1655,42 @@
 		<string>macron.cap</string>
 		<string>ring.cap</string>
 		<string>tilde.cap</string>
-		<string>uni0941</string>
-		<string>uni0942</string>
-		<string>uni0943</string>
-		<string>uni0944</string>
-		<string>uni0962</string>
-		<string>uni0963</string>
-		<string>uni0945</string>
-		<string>uni0901</string>
-		<string>uni0946</string>
-		<string>uni0947</string>
-		<string>uni09470902</string>
-		<string>uni09470930094D</string>
-		<string>uni09470930094D0902</string>
-		<string>uni0948</string>
-		<string>uni09480902</string>
-		<string>uni09480930094D</string>
-		<string>uni09480930094D0902</string>
-		<string>uni0902</string>
-		<string>uni094D</string>
-		<string>uni093C</string>
-		<string>uni0930094D</string>
-		<string>uni0930094D0902</string>
-		<string>uni094D0930</string>
-		<string>uni094D09300941</string>
-		<string>uni094D09300942</string>
-		<string>uni093A</string>
-		<string>uni0956</string>
-		<string>uni0957</string>
-		<string>uni0951</string>
-		<string>uni0952</string>
-		<string>uni0953</string>
-		<string>uni0954</string>
-		<string>uni0941.alt</string>
-		<string>uni0942.alt</string>
-		<string>uni0930094D.loclMAR</string>
-		<string>uni0903</string>
+		<string>uMatra-deva</string>
+		<string>uuMatra-deva</string>
+		<string>rVocalicMatra-deva</string>
+		<string>rrVocalicMatra-deva</string>
+		<string>lVocalicMatra-deva</string>
+		<string>llVocalicMatra-deva</string>
+		<string>eCandraMatra-deva</string>
+		<string>candraBindu-deva</string>
+		<string>eShortMatra-deva</string>
+		<string>eMatra-deva</string>
+		<string>eMatra_anusvara-deva</string>
+		<string>eMatra_reph-deva</string>
+		<string>eMatra_reph_anusvara-deva</string>
+		<string>aiMatra-deva</string>
+		<string>aiMatra_anusvara-deva</string>
+		<string>aiMatra_reph-deva</string>
+		<string>aiMatra_reph_anusvara-deva</string>
+		<string>anusvara-deva</string>
+		<string>halant-deva</string>
+		<string>nukta-deva</string>
+		<string>reph-deva</string>
+		<string>reph_anusvara-deva</string>
+		<string>rakar-deva</string>
+		<string>rakar_uMatra-deva</string>
+		<string>rakar_uuMatra-deva</string>
+		<string>oeMatra-deva</string>
+		<string>ueMatra-deva</string>
+		<string>uueMatra-deva</string>
+		<string>udatta-deva</string>
+		<string>anudatta-deva</string>
+		<string>grave-deva</string>
+		<string>acute-deva</string>
+		<string>uMatra-deva.alt</string>
+		<string>uuMatra-deva.alt</string>
+		<string>reph-deva.loclMAR</string>
+		<string>visarga-deva</string>
 		<string>caronSlovak</string>
 	</array>
 </dict>

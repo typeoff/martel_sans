@@ -4,8 +4,8 @@
   <unicode hex="00BD"/>
   <outline>
     <component base="fraction" xOffset="380"/>
-    <component base="uni00B9" yOffset="-200"/>
-    <component base="uni00B2" xOffset="508" yOffset="-472"/>
+    <component base="onesuperior" yOffset="-200"/>
+    <component base="twosuperior" xOffset="508" yOffset="-472"/>
   </outline>
   <lib>
     <dict>

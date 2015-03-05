@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="iiMatra_reph-deva" format="1">
+  <advance width="287"/>
+  <outline>
+    <contour>
+      <point x="171" y="616" type="line"/>
+      <point x="152" y="666"/>
+      <point x="132" y="716"/>
+      <point x="109" y="762" type="curve"/>
+      <point x="101" y="780"/>
+      <point x="97" y="800"/>
+      <point x="97" y="820" type="curve" smooth="yes"/>
+      <point x="97" y="887"/>
+      <point x="146" y="923"/>
+      <point x="195" y="923" type="curve" smooth="yes"/>
+      <point x="242" y="923"/>
+      <point x="276" y="898"/>
+      <point x="305" y="874" type="curve"/>
+      <point x="330" y="911" type="line"/>
+      <point x="292" y="944"/>
+      <point x="251" y="968"/>
+      <point x="195" y="968" type="curve" smooth="yes"/>
+      <point x="114" y="968"/>
+      <point x="60" y="913"/>
+      <point x="53" y="838" type="curve"/>
+      <point x="65" y="839" type="line"/>
+      <point x="16" y="916"/>
+      <point x="-44" y="968"/>
+      <point x="-119" y="968" type="curve" smooth="yes"/>
+      <point x="-206" y="968"/>
+      <point x="-257" y="907"/>
+      <point x="-257" y="840" type="curve" smooth="yes"/>
+      <point x="-257" y="768"/>
+      <point x="-211" y="709"/>
+      <point x="-175" y="675" type="curve"/>
+      <point x="-141" y="705" type="line"/>
+      <point x="-167" y="730"/>
+      <point x="-206" y="783"/>
+      <point x="-206" y="840" type="curve" smooth="yes"/>
+      <point x="-206" y="888"/>
+      <point x="-176" y="924"/>
+      <point x="-118" y="924" type="curve" smooth="yes"/>
+      <point x="-23" y="924"/>
+      <point x="63" y="777"/>
+      <point x="119" y="616" type="curve"/>
+    </contour>
+    <contour>
+      <point x="169" y="0" type="line"/>
+      <point x="169" y="610" type="line"/>
+      <point x="118" y="610" type="line"/>
+      <point x="118" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="287" y="590" type="line"/>
+      <point x="287" y="634" type="line"/>
+      <point x="-20" y="634" type="line"/>
+      <point x="-20" y="590" type="line"/>
+    </contour>
+    <contour>
+      <point x="-149" y="634" type="move" name="iimatra"/>
+    </contour>
+    <contour>
+      <point x="232" y="634" type="move" name="top"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>background</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>iiMatra_reph-deva</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>287</integer>
+        </dict>
+        <key>layer_01</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>iiMatra_reph-deva</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>287</integer>
+        </dict>
+        <key>layer_02</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>iiMatra_reph-deva</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>287</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

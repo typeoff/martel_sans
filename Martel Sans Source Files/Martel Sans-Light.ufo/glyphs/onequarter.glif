@@ -4,7 +4,7 @@
   <unicode hex="00BC"/>
   <outline>
     <component base="fraction" xOffset="380"/>
-    <component base="uni00B9" yOffset="-200"/>
+    <component base="onesuperior" yOffset="-200"/>
     <component base="four.superior" xOffset="477" yOffset="-472"/>
   </outline>
   <lib>

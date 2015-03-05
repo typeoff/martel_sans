@@ -7,17 +7,20 @@
 	<key>capHeight</key>
 	<integer>680</integer>
 	<key>copyright</key>
-	<string>Copyright © 2015 by Dan Reynolds. All rights reserved.</string>
+	<string>Copyright (c) 2015 Dan Reynolds. Copyright (c) 2015 Mathieu Réguer.</string>
 	<key>descender</key>
 	<integer>-500</integer>
 	<key>familyName</key>
 	<string>Martel Sans</string>
+	<key>fsType</key>
+	<array>
+	</array>
 	<key>license</key>
 	<string>This Font Software is licensed under the SIL Open Font License Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL</string>
 	<key>licenseURL</key>
 	<string>http://scripts.sil.org/OFL</string>
 	<key>openTypeHeadCreated</key>
-	<string>2015/02/18 06:08:20</string>
+	<string>2015/03/05 07:44:55</string>
 	<key>openTypeNameDesigner</key>
 	<string>Dan Reynolds and Mathieu Réguer</string>
 	<key>openTypeNameDesignerURL</key>
@@ -72,7 +75,7 @@
 	<key>versionMajor</key>
 	<integer>1</integer>
 	<key>versionMinor</key>
-	<integer>0</integer>
+	<integer>1</integer>
 	<key>xHeight</key>
 	<integer>520</integer>
 </dict>

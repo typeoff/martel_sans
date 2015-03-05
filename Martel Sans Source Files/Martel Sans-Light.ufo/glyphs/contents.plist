@@ -66,8 +66,6 @@
 	<string>E_ogonek.glif</string>
 	<key>Eth</key>
 	<string>E_th.glif</string>
-	<key>Euro</key>
-	<string>E_uro.glif</string>
 	<key>F</key>
 	<string>F_.glif</string>
 	<key>G</key>
@@ -180,6 +178,8 @@
 	<string>T_.glif</string>
 	<key>Tcaron</key>
 	<string>T_caron.glif</string>
+	<key>Tcommaaccent</key>
+	<string>T_commaaccent.glif</string>
 	<key>Thorn</key>
 	<string>T_horn.glif</string>
 	<key>U</key>
@@ -222,14 +222,28 @@
 	<string>Z_dotaccent.glif</string>
 	<key>a</key>
 	<string>a.glif</string>
+	<key>a-deva</key>
+	<string>a-deva.glif</string>
+	<key>aCandra-deva</key>
+	<string>aC_andra-deva.glif</string>
+	<key>aShort-deva</key>
+	<string>aS_hort-deva.glif</string>
+	<key>aa-deva</key>
+	<string>aa-deva.glif</string>
+	<key>aaMatra-deva</key>
+	<string>aaM_atra-deva.glif</string>
 	<key>aacute</key>
 	<string>aacute.glif</string>
+	<key>abbreviation-deva</key>
+	<string>abbreviation-deva.glif</string>
 	<key>abreve</key>
 	<string>abreve.glif</string>
 	<key>acircumflex</key>
 	<string>acircumflex.glif</string>
 	<key>acute</key>
 	<string>acute.glif</string>
+	<key>acute-deva</key>
+	<string>acute-deva.glif</string>
 	<key>acute.cap</key>
 	<string>acute.cap.glif</string>
 	<key>adieresis</key>
@@ -238,10 +252,24 @@
 	<string>ae.glif</string>
 	<key>agrave</key>
 	<string>agrave.glif</string>
+	<key>ai-deva</key>
+	<string>ai-deva.glif</string>
+	<key>aiMatra-deva</key>
+	<string>aiM_atra-deva.glif</string>
+	<key>aiMatra_anusvara-deva</key>
+	<string>aiM_atra_anusvara-deva.glif</string>
+	<key>aiMatra_reph-deva</key>
+	<string>aiM_atra_reph-deva.glif</string>
+	<key>aiMatra_reph_anusvara-deva</key>
+	<string>aiM_atra_reph_anusvara-deva.glif</string>
 	<key>amacron</key>
 	<string>amacron.glif</string>
 	<key>ampersand</key>
 	<string>ampersand.glif</string>
+	<key>anudatta-deva</key>
+	<string>anudatta-deva.glif</string>
+	<key>anusvara-deva</key>
+	<string>anusvara-deva.glif</string>
 	<key>aogonek</key>
 	<string>aogonek.glif</string>
 	<key>approxequal</key>
@@ -258,12 +286,38 @@
 	<string>at.glif</string>
 	<key>atilde</key>
 	<string>atilde.glif</string>
+	<key>au-deva</key>
+	<string>au-deva.glif</string>
+	<key>auMatra-deva</key>
+	<string>auM_atra-deva.glif</string>
+	<key>auMatra_anusvara-deva</key>
+	<string>auM_atra_anusvara-deva.glif</string>
+	<key>auMatra_reph-deva</key>
+	<string>auM_atra_reph-deva.glif</string>
+	<key>auMatra_reph_anusvara-deva</key>
+	<string>auM_atra_reph_anusvara-deva.glif</string>
+	<key>avagraha-deva</key>
+	<string>avagraha-deva.glif</string>
 	<key>b</key>
 	<string>b.glif</string>
+	<key>b-deva</key>
+	<string>b-deva.glif</string>
+	<key>b_ra-deva</key>
+	<string>b_ra-deva.glif</string>
+	<key>ba-deva</key>
+	<string>ba-deva.glif</string>
 	<key>backslash</key>
 	<string>backslash.glif</string>
 	<key>bar</key>
 	<string>bar.glif</string>
+	<key>bba-deva</key>
+	<string>bba-deva.glif</string>
+	<key>bh-deva</key>
+	<string>bh-deva.glif</string>
+	<key>bh_ra-deva</key>
+	<string>bh_ra-deva.glif</string>
+	<key>bha-deva</key>
+	<string>bha-deva.glif</string>
 	<key>braceleft</key>
 	<string>braceleft.glif</string>
 	<key>braceright</key>
@@ -282,8 +336,20 @@
 	<string>bullet.glif</string>
 	<key>c</key>
 	<string>c.glif</string>
+	<key>c-deva</key>
+	<string>c-deva.glif</string>
+	<key>c_ca-deva</key>
+	<string>c_ca-deva.glif</string>
+	<key>c_cha-deva</key>
+	<string>c_cha-deva.glif</string>
+	<key>c_ra-deva</key>
+	<string>c_ra-deva.glif</string>
+	<key>ca-deva</key>
+	<string>ca-deva.glif</string>
 	<key>cacute</key>
 	<string>cacute.glif</string>
+	<key>candraBindu-deva</key>
+	<string>candraB_indu-deva.glif</string>
 	<key>caron</key>
 	<string>caron.glif</string>
 	<key>caron.cap</key>
@@ -300,6 +366,14 @@
 	<string>cent.glif</string>
 	<key>cent.bold</key>
 	<string>cent.bold.glif</string>
+	<key>ch-deva</key>
+	<string>ch-deva.glif</string>
+	<key>ch_ra-deva</key>
+	<string>ch_ra-deva.glif</string>
+	<key>ch_va-deva</key>
+	<string>ch_va-deva.glif</string>
+	<key>cha-deva</key>
+	<string>cha-deva.glif</string>
 	<key>circumflex</key>
 	<string>circumflex.glif</string>
 	<key>circumflex.cap</key>
@@ -308,22 +382,96 @@
 	<string>colon.glif</string>
 	<key>comma</key>
 	<string>comma.glif</string>
+	<key>commaaccent</key>
+	<string>commaaccent.glif</string>
+	<key>commaaccent.alt</key>
+	<string>commaaccent.alt.glif</string>
 	<key>copyright</key>
 	<string>copyright.glif</string>
 	<key>currency</key>
 	<string>currency.glif</string>
 	<key>d</key>
 	<string>d.glif</string>
+	<key>d-deva</key>
+	<string>d-deva.glif</string>
+	<key>d_ba-deva</key>
+	<string>d_ba-deva.glif</string>
+	<key>d_bha-deva</key>
+	<string>d_bha-deva.glif</string>
+	<key>d_da-deva</key>
+	<string>d_da-deva.glif</string>
+	<key>d_dh_r_ya-deva</key>
+	<string>d_dh_r_ya-deva.glif</string>
+	<key>d_dh_ra-deva</key>
+	<string>d_dh_ra-deva.glif</string>
+	<key>d_ga-deva</key>
+	<string>d_ga-deva.glif</string>
+	<key>d_gha-deva</key>
+	<string>d_gha-deva.glif</string>
+	<key>d_ma-deva</key>
+	<string>d_ma-deva.glif</string>
+	<key>d_na-deva</key>
+	<string>d_na-deva.glif</string>
+	<key>d_rVocalicMatra-deva</key>
+	<string>d_rV_ocalicM_atra-deva.glif</string>
+	<key>d_ra-deva</key>
+	<string>d_ra-deva.glif</string>
+	<key>d_va-deva</key>
+	<string>d_va-deva.glif</string>
+	<key>d_ya-deva</key>
+	<string>d_ya-deva.glif</string>
+	<key>da-deva</key>
+	<string>da-deva.glif</string>
 	<key>dagger</key>
 	<string>dagger.glif</string>
 	<key>daggerdbl</key>
 	<string>daggerdbl.glif</string>
+	<key>danda-deva</key>
+	<string>danda-deva.glif</string>
+	<key>dbldanda-deva</key>
+	<string>dbldanda-deva.glif</string>
 	<key>dcaron</key>
 	<string>dcaron.glif</string>
 	<key>dcroat</key>
 	<string>dcroat.glif</string>
+	<key>dd-deva</key>
+	<string>dd-deva.glif</string>
+	<key>dd_dda-deva</key>
+	<string>dd_dda-deva.glif</string>
+	<key>dd_ddha-deva</key>
+	<string>dd_ddha-deva.glif</string>
+	<key>dd_r-deva</key>
+	<string>dd_r-deva.glif</string>
+	<key>dd_ra-deva</key>
+	<string>dd_ra-deva.glif</string>
+	<key>dd_ya-deva</key>
+	<string>dd_ya-deva.glif</string>
+	<key>dda-deva</key>
+	<string>dda-deva.glif</string>
+	<key>ddda-deva</key>
+	<string>ddda-deva.glif</string>
+	<key>dddha-deva</key>
+	<string>dddha-deva.glif</string>
+	<key>ddh-deva</key>
+	<string>ddh-deva.glif</string>
+	<key>ddh_ddha-deva</key>
+	<string>ddh_ddha-deva.glif</string>
+	<key>ddh_r-deva</key>
+	<string>ddh_r-deva.glif</string>
+	<key>ddh_ra-deva</key>
+	<string>ddh_ra-deva.glif</string>
+	<key>ddh_ya-deva</key>
+	<string>ddh_ya-deva.glif</string>
+	<key>ddha-deva</key>
+	<string>ddha-deva.glif</string>
 	<key>degree</key>
 	<string>degree.glif</string>
+	<key>dh-deva</key>
+	<string>dh-deva.glif</string>
+	<key>dh_ra-deva</key>
+	<string>dh_ra-deva.glif</string>
+	<key>dha-deva</key>
+	<string>dha-deva.glif</string>
 	<key>dieresis</key>
 	<string>dieresis.glif</string>
 	<key>dieresis.cap</key>
@@ -338,10 +486,28 @@
 	<string>dotaccent.glif</string>
 	<key>dotaccent.cap</key>
 	<string>dotaccent.cap.glif</string>
-	<key>dotlessi</key>
-	<string>dotlessi.glif</string>
+	<key>dottedCircle</key>
+	<string>dottedC_ircle.glif</string>
 	<key>e</key>
 	<string>e.glif</string>
+	<key>e-deva</key>
+	<string>e-deva.glif</string>
+	<key>eCandra-deva</key>
+	<string>eC_andra-deva.glif</string>
+	<key>eCandraMatra-deva</key>
+	<string>eC_andraM_atra-deva.glif</string>
+	<key>eMatra-deva</key>
+	<string>eM_atra-deva.glif</string>
+	<key>eMatra_anusvara-deva</key>
+	<string>eM_atra_anusvara-deva.glif</string>
+	<key>eMatra_reph-deva</key>
+	<string>eM_atra_reph-deva.glif</string>
+	<key>eMatra_reph_anusvara-deva</key>
+	<string>eM_atra_reph_anusvara-deva.glif</string>
+	<key>eShort-deva</key>
+	<string>eS_hort-deva.glif</string>
+	<key>eShortMatra-deva</key>
+	<string>eS_hortM_atra-deva.glif</string>
 	<key>eacute</key>
 	<string>eacute.glif</string>
 	<key>ecaron</key>
@@ -356,74 +522,164 @@
 	<string>egrave.glif</string>
 	<key>eight</key>
 	<string>eight.glif</string>
+	<key>eight-deva</key>
+	<string>eight-deva.glif</string>
+	<key>eight-deva.loclNEP</key>
+	<string>eight-deva.loclN_E_P_.glif</string>
 	<key>ellipsis</key>
 	<string>ellipsis.glif</string>
 	<key>emacron</key>
 	<string>emacron.glif</string>
 	<key>emdash</key>
 	<string>emdash.glif</string>
+	<key>emquad</key>
+	<string>emquad.glif</string>
+	<key>emspace</key>
+	<string>emspace.glif</string>
 	<key>endash</key>
 	<string>endash.glif</string>
+	<key>enquad</key>
+	<string>enquad.glif</string>
+	<key>enspace</key>
+	<string>enspace.glif</string>
 	<key>eogonek</key>
 	<string>eogonek.glif</string>
 	<key>equal</key>
 	<string>equal.glif</string>
 	<key>eth</key>
 	<string>eth.glif</string>
+	<key>euro</key>
+	<string>euro.glif</string>
 	<key>exclam</key>
 	<string>exclam.glif</string>
 	<key>exclamdown</key>
 	<string>exclamdown.glif</string>
 	<key>f</key>
 	<string>f.glif</string>
+	<key>f-deva</key>
+	<string>f-deva.glif</string>
 	<key>f_f</key>
 	<string>f_f.glif</string>
 	<key>f_f_i</key>
 	<string>f_f_i.glif</string>
 	<key>f_f_l</key>
 	<string>f_f_l.glif</string>
+	<key>f_ra-deva</key>
+	<string>f_ra-deva.glif</string>
+	<key>fa-deva</key>
+	<string>fa-deva.glif</string>
 	<key>fi</key>
 	<string>fi.glif</string>
+	<key>figurespace</key>
+	<string>figurespace.glif</string>
 	<key>five</key>
 	<string>five.glif</string>
+	<key>five-deva</key>
+	<string>five-deva.glif</string>
+	<key>five-deva.loclNEP</key>
+	<string>five-deva.loclN_E_P_.glif</string>
 	<key>fl</key>
 	<string>fl.glif</string>
 	<key>florin</key>
 	<string>florin.glif</string>
 	<key>four</key>
 	<string>four.glif</string>
+	<key>four-deva</key>
+	<string>four-deva.glif</string>
 	<key>four.superior</key>
 	<string>four.superior.glif</string>
+	<key>fourperemspace</key>
+	<string>fourperemspace.glif</string>
 	<key>fraction</key>
 	<string>fraction.glif</string>
 	<key>g</key>
 	<string>g.glif</string>
+	<key>g-deva</key>
+	<string>g-deva.glif</string>
+	<key>g_na-deva</key>
+	<string>g_na-deva.glif</string>
+	<key>g_r-deva</key>
+	<string>g_r-deva.glif</string>
+	<key>g_ra-deva</key>
+	<string>g_ra-deva.glif</string>
+	<key>ga-deva</key>
+	<string>ga-deva.glif</string>
 	<key>gbreve</key>
 	<string>gbreve.glif</string>
 	<key>gcommaaccent</key>
 	<string>gcommaaccent.glif</string>
 	<key>germandbls</key>
 	<string>germandbls.glif</string>
+	<key>gga-deva</key>
+	<string>gga-deva.glif</string>
+	<key>gh-deva</key>
+	<string>gh-deva.glif</string>
+	<key>gh_na-deva</key>
+	<string>gh_na-deva.glif</string>
+	<key>gh_r-deva</key>
+	<string>gh_r-deva.glif</string>
+	<key>gh_ra-deva</key>
+	<string>gh_ra-deva.glif</string>
+	<key>gha-deva</key>
+	<string>gha-deva.glif</string>
+	<key>ghh-deva</key>
+	<string>ghh-deva.glif</string>
+	<key>ghha-deva</key>
+	<string>ghha-deva.glif</string>
+	<key>glottalstop-deva</key>
+	<string>glottalstop-deva.glif</string>
 	<key>grave</key>
 	<string>grave.glif</string>
+	<key>grave-deva</key>
+	<string>grave-deva.glif</string>
 	<key>grave.cap</key>
 	<string>grave.cap.glif</string>
 	<key>greater</key>
 	<string>greater.glif</string>
 	<key>greaterequal</key>
 	<string>greaterequal.glif</string>
-	<key>guillemotleft</key>
-	<string>guillemotleft.glif</string>
-	<key>guillemotright</key>
-	<string>guillemotright.glif</string>
+	<key>guillemetleft</key>
+	<string>guillemetleft.glif</string>
+	<key>guillemetright</key>
+	<string>guillemetright.glif</string>
 	<key>guilsinglleft</key>
 	<string>guilsinglleft.glif</string>
 	<key>guilsinglright</key>
 	<string>guilsinglright.glif</string>
 	<key>h</key>
 	<string>h.glif</string>
+	<key>h-deva</key>
+	<string>h-deva.glif</string>
+	<key>h_la-deva</key>
+	<string>h_la-deva.glif</string>
+	<key>h_ma-deva</key>
+	<string>h_ma-deva.glif</string>
+	<key>h_na-deva</key>
+	<string>h_na-deva.glif</string>
+	<key>h_nna-deva</key>
+	<string>h_nna-deva.glif</string>
+	<key>h_ra-deva</key>
+	<string>h_ra-deva.glif</string>
+	<key>h_va-deva</key>
+	<string>h_va-deva.glif</string>
+	<key>h_ya-deva</key>
+	<string>h_ya-deva.glif</string>
+	<key>ha-deva</key>
+	<string>ha-deva.glif</string>
+	<key>ha_rVocalicMatra-deva</key>
+	<string>ha_rV_ocalicM_atra-deva.glif</string>
+	<key>ha_uMatra-deva</key>
+	<string>ha_uM_atra-deva.glif</string>
+	<key>ha_uuMatra-deva</key>
+	<string>ha_uuM_atra-deva.glif</string>
+	<key>hairspace</key>
+	<string>hairspace.glif</string>
+	<key>halant-deva</key>
+	<string>halant-deva.glif</string>
 	<key>hbar</key>
 	<string>hbar.glif</string>
+	<key>highspacingdot-deva</key>
+	<string>highspacingdot-deva.glif</string>
 	<key>hungarumlaut</key>
 	<string>hungarumlaut.glif</string>
 	<key>hungarumlaut.cap</key>
@@ -432,18 +688,76 @@
 	<string>hyphen.glif</string>
 	<key>i</key>
 	<string>i.glif</string>
+	<key>i-deva</key>
+	<string>i-deva.glif</string>
+	<key>iMatra-deva</key>
+	<string>iM_atra-deva.glif</string>
+	<key>iMatra-deva.0</key>
+	<string>iM_atra-deva.0.glif</string>
+	<key>iMatra-deva.05</key>
+	<string>iM_atra-deva.05.glif</string>
+	<key>iMatra-deva.10</key>
+	<string>iM_atra-deva.10.glif</string>
+	<key>iMatra_anusvara-deva</key>
+	<string>iM_atra_anusvara-deva.glif</string>
+	<key>iMatra_anusvara-deva.0</key>
+	<string>iM_atra_anusvara-deva.0.glif</string>
+	<key>iMatra_anusvara-deva.05</key>
+	<string>iM_atra_anusvara-deva.05.glif</string>
+	<key>iMatra_anusvara-deva.10</key>
+	<string>iM_atra_anusvara-deva.10.glif</string>
+	<key>iMatra_reph-deva</key>
+	<string>iM_atra_reph-deva.glif</string>
+	<key>iMatra_reph-deva.0</key>
+	<string>iM_atra_reph-deva.0.glif</string>
+	<key>iMatra_reph-deva.05</key>
+	<string>iM_atra_reph-deva.05.glif</string>
+	<key>iMatra_reph-deva.10</key>
+	<string>iM_atra_reph-deva.10.glif</string>
+	<key>iMatra_reph_anusvara-deva</key>
+	<string>iM_atra_reph_anusvara-deva.glif</string>
+	<key>iMatra_reph_anusvara-deva.0</key>
+	<string>iM_atra_reph_anusvara-deva.0.glif</string>
+	<key>iMatra_reph_anusvara-deva.05</key>
+	<string>iM_atra_reph_anusvara-deva.05.glif</string>
+	<key>iMatra_reph_anusvara-deva.10</key>
+	<string>iM_atra_reph_anusvara-deva.10.glif</string>
 	<key>iacute</key>
 	<string>iacute.glif</string>
 	<key>icircumflex</key>
 	<string>icircumflex.glif</string>
 	<key>idieresis</key>
 	<string>idieresis.glif</string>
+	<key>idotless</key>
+	<string>idotless.glif</string>
 	<key>igrave</key>
 	<string>igrave.glif</string>
+	<key>ii-deva</key>
+	<string>ii-deva.glif</string>
+	<key>iiMatra-deva</key>
+	<string>iiM_atra-deva.glif</string>
+	<key>iiMatra-deva.02</key>
+	<string>iiM_atra-deva.02.glif</string>
+	<key>iiMatra_anusvara-deva</key>
+	<string>iiM_atra_anusvara-deva.glif</string>
+	<key>iiMatra_anusvara-deva.02</key>
+	<string>iiM_atra_anusvara-deva.02.glif</string>
+	<key>iiMatra_reph-deva</key>
+	<string>iiM_atra_reph-deva.glif</string>
+	<key>iiMatra_reph-deva.02</key>
+	<string>iiM_atra_reph-deva.02.glif</string>
+	<key>iiMatra_reph_anusvara-deva</key>
+	<string>iiM_atra_reph_anusvara-deva.glif</string>
+	<key>iiMatra_reph_anusvara-deva.02</key>
+	<string>iiM_atra_reph_anusvara-deva.02.glif</string>
+	<key>ii_anusvara-deva</key>
+	<string>ii_anusvara-deva.glif</string>
 	<key>ij</key>
 	<string>ij.glif</string>
 	<key>imacron</key>
 	<string>imacron.glif</string>
+	<key>increment</key>
+	<string>increment.glif</string>
 	<key>infinity</key>
 	<string>infinity.glif</string>
 	<key>integral</key>
@@ -454,16 +768,104 @@
 	<string>itilde.glif</string>
 	<key>j</key>
 	<string>j.glif</string>
+	<key>j-deva</key>
+	<string>j-deva.glif</string>
+	<key>j_j-deva</key>
+	<string>j_j-deva.glif</string>
+	<key>j_ja-deva</key>
+	<string>j_ja-deva.glif</string>
+	<key>j_ny-deva</key>
+	<string>j_ny-deva.glif</string>
+	<key>j_ny_ra-deva</key>
+	<string>j_ny_ra-deva.glif</string>
+	<key>j_nya-deva</key>
+	<string>j_nya-deva.glif</string>
+	<key>j_nya-deva.akhn</key>
+	<string>j_nya-deva.akhn.glif</string>
+	<key>j_ra-deva</key>
+	<string>j_ra-deva.glif</string>
+	<key>ja-deva</key>
+	<string>ja-deva.glif</string>
+	<key>ja_halant_nya_halant-deva</key>
+	<string>ja_halant_nya_halant-deva.glif</string>
 	<key>jcircumflex</key>
 	<string>jcircumflex.glif</string>
+	<key>jdotless</key>
+	<string>jdotless.glif</string>
+	<key>jh-deva</key>
+	<string>jh-deva.glif</string>
+	<key>jh-deva.loclNEP</key>
+	<string>jh-deva.loclN_E_P_.glif</string>
+	<key>jh_ra-deva</key>
+	<string>jh_ra-deva.glif</string>
+	<key>jha-deva</key>
+	<string>jha-deva.glif</string>
+	<key>jha-deva.loclNEP</key>
+	<string>jha-deva.loclN_E_P_.glif</string>
+	<key>jja-deva</key>
+	<string>jja-deva.glif</string>
+	<key>jjya-deva</key>
+	<string>jjya-deva.glif</string>
 	<key>k</key>
 	<string>k.glif</string>
+	<key>k-deva</key>
+	<string>k-deva.glif</string>
+	<key>k_ka-deva</key>
+	<string>k_ka-deva.glif</string>
+	<key>k_la-deva</key>
+	<string>k_la-deva.glif</string>
+	<key>k_r-deva</key>
+	<string>k_r-deva.glif</string>
+	<key>k_ra-deva</key>
+	<string>k_ra-deva.glif</string>
+	<key>k_ra-deva.loclNEP</key>
+	<string>k_ra-deva.loclN_E_P_.glif</string>
+	<key>k_ss-deva</key>
+	<string>k_ss-deva.glif</string>
+	<key>k_ss_ra-deva</key>
+	<string>k_ss_ra-deva.glif</string>
+	<key>k_ssa-deva</key>
+	<string>k_ssa-deva.glif</string>
+	<key>k_ta-deva</key>
+	<string>k_ta-deva.glif</string>
+	<key>k_va-deva</key>
+	<string>k_va-deva.glif</string>
+	<key>ka-deva</key>
+	<string>ka-deva.glif</string>
 	<key>kcommaaccent</key>
 	<string>kcommaaccent.glif</string>
 	<key>kgreenlandic</key>
 	<string>kgreenlandic.glif</string>
+	<key>kh-deva</key>
+	<string>kh-deva.glif</string>
+	<key>kh_r-deva</key>
+	<string>kh_r-deva.glif</string>
+	<key>kh_ra-deva</key>
+	<string>kh_ra-deva.glif</string>
+	<key>kha-deva</key>
+	<string>kha-deva.glif</string>
+	<key>khh-deva</key>
+	<string>khh-deva.glif</string>
+	<key>khha-deva</key>
+	<string>khha-deva.glif</string>
 	<key>l</key>
 	<string>l.glif</string>
+	<key>l-deva</key>
+	<string>l-deva.glif</string>
+	<key>l-deva.loclMAR</key>
+	<string>l-deva.loclM_A_R_.glif</string>
+	<key>lVocalic-deva</key>
+	<string>lV_ocalic-deva.glif</string>
+	<key>lVocalicMatra-deva</key>
+	<string>lV_ocalicM_atra-deva.glif</string>
+	<key>l_la-deva</key>
+	<string>l_la-deva.glif</string>
+	<key>l_ra-deva</key>
+	<string>l_ra-deva.glif</string>
+	<key>la-deva</key>
+	<string>la-deva.glif</string>
+	<key>la-deva.loclMAR</key>
+	<string>la-deva.loclM_A_R_.glif</string>
 	<key>lacute</key>
 	<string>lacute.glif</string>
 	<key>lcaron</key>
@@ -476,6 +878,20 @@
 	<string>less.glif</string>
 	<key>lessequal</key>
 	<string>lessequal.glif</string>
+	<key>ll-deva</key>
+	<string>ll-deva.glif</string>
+	<key>llVocalic-deva</key>
+	<string>llV_ocalic-deva.glif</string>
+	<key>llVocalicMatra-deva</key>
+	<string>llV_ocalicM_atra-deva.glif</string>
+	<key>ll_ra-deva</key>
+	<string>ll_ra-deva.glif</string>
+	<key>lla-deva</key>
+	<string>lla-deva.glif</string>
+	<key>lll-deva</key>
+	<string>lll-deva.glif</string>
+	<key>llla-deva</key>
+	<string>llla-deva.glif</string>
 	<key>logicalnot</key>
 	<string>logicalnot.glif</string>
 	<key>lozenge</key>
@@ -484,6 +900,12 @@
 	<string>lslash.glif</string>
 	<key>m</key>
 	<string>m.glif</string>
+	<key>m-deva</key>
+	<string>m-deva.glif</string>
+	<key>m_ra-deva</key>
+	<string>m_ra-deva.glif</string>
+	<key>ma-deva</key>
+	<string>ma-deva.glif</string>
 	<key>macron</key>
 	<string>macron.glif</string>
 	<key>macron.cap</key>
@@ -496,22 +918,102 @@
 	<string>multiply.glif</string>
 	<key>n</key>
 	<string>n.glif</string>
+	<key>n-deva</key>
+	<string>n-deva.glif</string>
+	<key>n_bha-deva</key>
+	<string>n_bha-deva.glif</string>
+	<key>n_ma-deva</key>
+	<string>n_ma-deva.glif</string>
+	<key>n_na-deva</key>
+	<string>n_na-deva.glif</string>
+	<key>n_ra-deva</key>
+	<string>n_ra-deva.glif</string>
+	<key>n_t_ra-deva</key>
+	<string>n_t_ra-deva.glif</string>
+	<key>na-deva</key>
+	<string>na-deva.glif</string>
+	<key>na-deva.post</key>
+	<string>na-deva.post.glif</string>
 	<key>nacute</key>
 	<string>nacute.glif</string>
+	<key>nbspace</key>
+	<string>nbspace.glif</string>
 	<key>ncaron</key>
 	<string>ncaron.glif</string>
 	<key>ncommaaccent</key>
 	<string>ncommaaccent.glif</string>
+	<key>ng-deva</key>
+	<string>ng-deva.glif</string>
+	<key>ng_ga-deva</key>
+	<string>ng_ga-deva.glif</string>
+	<key>ng_gha-deva</key>
+	<string>ng_gha-deva.glif</string>
+	<key>ng_k-deva</key>
+	<string>ng_k-deva.glif</string>
+	<key>ng_k_ssa-deva</key>
+	<string>ng_k_ssa-deva.glif</string>
+	<key>ng_ka-deva</key>
+	<string>ng_ka-deva.glif</string>
+	<key>ng_kha-deva</key>
+	<string>ng_kha-deva.glif</string>
+	<key>ng_ma-deva</key>
+	<string>ng_ma-deva.glif</string>
+	<key>ng_ra-deva</key>
+	<string>ng_ra-deva.glif</string>
+	<key>nga-deva</key>
+	<string>nga-deva.glif</string>
 	<key>nine</key>
 	<string>nine.glif</string>
+	<key>nine-deva</key>
+	<string>nine-deva.glif</string>
+	<key>nn-deva</key>
+	<string>nn-deva.glif</string>
+	<key>nn_ra-deva</key>
+	<string>nn_ra-deva.glif</string>
+	<key>nna-deva</key>
+	<string>nna-deva.glif</string>
+	<key>nnn-deva</key>
+	<string>nnn-deva.glif</string>
+	<key>nnna-deva</key>
+	<string>nnna-deva.glif</string>
 	<key>notequal</key>
 	<string>notequal.glif</string>
 	<key>ntilde</key>
 	<string>ntilde.glif</string>
+	<key>nukta-deva</key>
+	<string>nukta-deva.glif</string>
 	<key>numbersign</key>
 	<string>numbersign.glif</string>
+	<key>ny-deva</key>
+	<string>ny-deva.glif</string>
+	<key>ny_ca-deva</key>
+	<string>ny_ca-deva.glif</string>
+	<key>ny_ja-deva</key>
+	<string>ny_ja-deva.glif</string>
+	<key>ny_ra-deva</key>
+	<string>ny_ra-deva.glif</string>
+	<key>nya-deva</key>
+	<string>nya-deva.glif</string>
 	<key>o</key>
 	<string>o.glif</string>
+	<key>o-deva</key>
+	<string>o-deva.glif</string>
+	<key>oCandra-deva</key>
+	<string>oC_andra-deva.glif</string>
+	<key>oCandraMatra-deva</key>
+	<string>oC_andraM_atra-deva.glif</string>
+	<key>oMatra-deva</key>
+	<string>oM_atra-deva.glif</string>
+	<key>oMatra_anusvara-deva</key>
+	<string>oM_atra_anusvara-deva.glif</string>
+	<key>oMatra_reph-deva</key>
+	<string>oM_atra_reph-deva.glif</string>
+	<key>oMatra_reph_anusvara-deva</key>
+	<string>oM_atra_reph_anusvara-deva.glif</string>
+	<key>oShort-deva</key>
+	<string>oS_hort-deva.glif</string>
+	<key>oShortMatra-deva</key>
+	<string>oS_hortM_atra-deva.glif</string>
 	<key>oacute</key>
 	<string>oacute.glif</string>
 	<key>ocircumflex</key>
@@ -520,20 +1022,34 @@
 	<string>odieresis.glif</string>
 	<key>oe</key>
 	<string>oe.glif</string>
+	<key>oe-deva</key>
+	<string>oe-deva.glif</string>
+	<key>oeMatra-deva</key>
+	<string>oeM_atra-deva.glif</string>
 	<key>ogonek</key>
 	<string>ogonek.glif</string>
 	<key>ograve</key>
 	<string>ograve.glif</string>
 	<key>ohungarumlaut</key>
 	<string>ohungarumlaut.glif</string>
+	<key>om-deva</key>
+	<string>om-deva.glif</string>
 	<key>omacron</key>
 	<string>omacron.glif</string>
 	<key>one</key>
 	<string>one.glif</string>
+	<key>one-deva</key>
+	<string>one-deva.glif</string>
 	<key>onehalf</key>
 	<string>onehalf.glif</string>
 	<key>onequarter</key>
 	<string>onequarter.glif</string>
+	<key>onesuperior</key>
+	<string>onesuperior.glif</string>
+	<key>ooe-deva</key>
+	<string>ooe-deva.glif</string>
+	<key>ooeMatra-deva</key>
+	<string>ooeM_atra-deva.glif</string>
 	<key>ordfeminine</key>
 	<string>ordfeminine.glif</string>
 	<key>ordmasculine</key>
@@ -544,6 +1060,18 @@
 	<string>otilde.glif</string>
 	<key>p</key>
 	<string>p.glif</string>
+	<key>p-deva</key>
+	<string>p-deva.glif</string>
+	<key>p_la-deva</key>
+	<string>p_la-deva.glif</string>
+	<key>p_r-deva</key>
+	<string>p_r-deva.glif</string>
+	<key>p_ra-deva</key>
+	<string>p_ra-deva.glif</string>
+	<key>p_ta-deva</key>
+	<string>p_ta-deva.glif</string>
+	<key>pa-deva</key>
+	<string>pa-deva.glif</string>
 	<key>paragraph</key>
 	<string>paragraph.glif</string>
 	<key>parenleft</key>
@@ -560,6 +1088,14 @@
 	<string>periodcentered.glif</string>
 	<key>perthousand</key>
 	<string>perthousand.glif</string>
+	<key>ph-deva</key>
+	<string>ph-deva.glif</string>
+	<key>ph_la-deva</key>
+	<string>ph_la-deva.glif</string>
+	<key>ph_ra-deva</key>
+	<string>ph_ra-deva.glif</string>
+	<key>pha-deva</key>
+	<string>pha-deva.glif</string>
 	<key>pi</key>
 	<string>pi.glif</string>
 	<key>plus</key>
@@ -568,8 +1104,14 @@
 	<string>plusminus.glif</string>
 	<key>product</key>
 	<string>product.glif</string>
+	<key>punctuationspace</key>
+	<string>punctuationspace.glif</string>
 	<key>q</key>
 	<string>q.glif</string>
+	<key>q-deva</key>
+	<string>q-deva.glif</string>
+	<key>qa-deva</key>
+	<string>qa-deva.glif</string>
 	<key>question</key>
 	<string>question.glif</string>
 	<key>questiondown</key>
@@ -592,22 +1134,66 @@
 	<string>quotesingle.glif</string>
 	<key>r</key>
 	<string>r.glif</string>
+	<key>rVocalic-deva</key>
+	<string>rV_ocalic-deva.glif</string>
+	<key>rVocalicMatra-deva</key>
+	<string>rV_ocalicM_atra-deva.glif</string>
+	<key>ra-deva</key>
+	<string>ra-deva.glif</string>
+	<key>ra-deva.post</key>
+	<string>ra-deva.post.glif</string>
+	<key>ra_uMatra-deva</key>
+	<string>ra_uM_atra-deva.glif</string>
+	<key>ra_uuMatra-deva</key>
+	<string>ra_uuM_atra-deva.glif</string>
 	<key>racute</key>
 	<string>racute.glif</string>
 	<key>radical</key>
 	<string>radical.glif</string>
+	<key>rakar-deva</key>
+	<string>rakar-deva.glif</string>
+	<key>rakar_uMatra-deva</key>
+	<string>rakar_uM_atra-deva.glif</string>
+	<key>rakar_uuMatra-deva</key>
+	<string>rakar_uuM_atra-deva.glif</string>
 	<key>rcaron</key>
 	<string>rcaron.glif</string>
 	<key>rcommaaccent</key>
 	<string>rcommaaccent.glif</string>
 	<key>registered</key>
 	<string>registered.glif</string>
+	<key>reph-deva</key>
+	<string>reph-deva.glif</string>
+	<key>reph-deva.loclMAR</key>
+	<string>reph-deva.loclM_A_R_.glif</string>
+	<key>reph_anusvara-deva</key>
+	<string>reph_anusvara-deva.glif</string>
+	<key>rha-deva</key>
+	<string>rha-deva.glif</string>
 	<key>ring</key>
 	<string>ring.glif</string>
 	<key>ring.cap</key>
 	<string>ring.cap.glif</string>
+	<key>rr-deva</key>
+	<string>rr-deva.glif</string>
+	<key>rrVocalic-deva</key>
+	<string>rrV_ocalic-deva.glif</string>
+	<key>rrVocalicMatra-deva</key>
+	<string>rrV_ocalicM_atra-deva.glif</string>
+	<key>rra-deva</key>
+	<string>rra-deva.glif</string>
+	<key>rupeeIndian</key>
+	<string>rupeeI_ndian.glif</string>
 	<key>s</key>
 	<string>s.glif</string>
+	<key>s-deva</key>
+	<string>s-deva.glif</string>
+	<key>s_ra-deva</key>
+	<string>s_ra-deva.glif</string>
+	<key>s_t_ra-deva</key>
+	<string>s_t_ra-deva.glif</string>
+	<key>sa-deva</key>
+	<string>sa-deva.glif</string>
 	<key>sacute</key>
 	<string>sacute.glif</string>
 	<key>scaron</key>
@@ -622,44 +1208,164 @@
 	<string>semicolon.glif</string>
 	<key>seven</key>
 	<string>seven.glif</string>
+	<key>seven-deva</key>
+	<string>seven-deva.glif</string>
+	<key>sh-deva</key>
+	<string>sh-deva.glif</string>
+	<key>sh-deva.loclMAR</key>
+	<string>sh-deva.loclM_A_R_.glif</string>
+	<key>sh_ca-deva</key>
+	<string>sh_ca-deva.glif</string>
+	<key>sh_la-deva</key>
+	<string>sh_la-deva.glif</string>
+	<key>sh_r-deva</key>
+	<string>sh_r-deva.glif</string>
+	<key>sh_rVocalicMatra-deva</key>
+	<string>sh_rV_ocalicM_atra-deva.glif</string>
+	<key>sh_r_ca-deva</key>
+	<string>sh_r_ca-deva.glif</string>
+	<key>sh_r_na-deva</key>
+	<string>sh_r_na-deva.glif</string>
+	<key>sh_ra-deva</key>
+	<string>sh_ra-deva.glif</string>
+	<key>sh_va-deva</key>
+	<string>sh_va-deva.glif</string>
+	<key>sha-deva</key>
+	<string>sha-deva.glif</string>
+	<key>sha-deva.loclMAR</key>
+	<string>sha-deva.loclM_A_R_.glif</string>
 	<key>six</key>
 	<string>six.glif</string>
+	<key>six-deva</key>
+	<string>six-deva.glif</string>
+	<key>sixperemspace</key>
+	<string>sixperemspace.glif</string>
 	<key>slash</key>
 	<string>slash.glif</string>
+	<key>softhyphen</key>
+	<string>softhyphen.glif</string>
 	<key>space</key>
 	<string>space.glif</string>
 	<key>space.copy_one</key>
 	<string>space.copy_one.glif</string>
+	<key>ss-deva</key>
+	<string>ss-deva.glif</string>
+	<key>ss_ra-deva</key>
+	<string>ss_ra-deva.glif</string>
+	<key>ss_tt_ra-deva</key>
+	<string>ss_tt_ra-deva.glif</string>
+	<key>ss_tta-deva</key>
+	<string>ss_tta-deva.glif</string>
+	<key>ss_tth_ra-deva</key>
+	<string>ss_tth_ra-deva.glif</string>
+	<key>ss_ttha-deva</key>
+	<string>ss_ttha-deva.glif</string>
+	<key>ssa-deva</key>
+	<string>ssa-deva.glif</string>
 	<key>sterling</key>
 	<string>sterling.glif</string>
 	<key>summation</key>
 	<string>summation.glif</string>
 	<key>t</key>
 	<string>t.glif</string>
+	<key>t-deva</key>
+	<string>t-deva.glif</string>
+	<key>t_r-deva</key>
+	<string>t_r-deva.glif</string>
+	<key>t_ra-deva</key>
+	<string>t_ra-deva.glif</string>
+	<key>t_t-deva</key>
+	<string>t_t-deva.glif</string>
+	<key>t_ta-deva</key>
+	<string>t_ta-deva.glif</string>
+	<key>t_ya-deva</key>
+	<string>t_ya-deva.glif</string>
+	<key>ta-deva</key>
+	<string>ta-deva.glif</string>
 	<key>tcaron</key>
 	<string>tcaron.glif</string>
+	<key>tcommaaccent</key>
+	<string>tcommaaccent.glif</string>
+	<key>th-deva</key>
+	<string>th-deva.glif</string>
+	<key>th_ra-deva</key>
+	<string>th_ra-deva.glif</string>
+	<key>tha-deva</key>
+	<string>tha-deva.glif</string>
+	<key>thinspace</key>
+	<string>thinspace.glif</string>
 	<key>thorn</key>
 	<string>thorn.glif</string>
 	<key>three</key>
 	<string>three.glif</string>
+	<key>three-deva</key>
+	<string>three-deva.glif</string>
+	<key>threeperemspace</key>
+	<string>threeperemspace.glif</string>
 	<key>threequarters</key>
 	<string>threequarters.glif</string>
+	<key>threesuperior</key>
+	<string>threesuperior.glif</string>
 	<key>tilde</key>
 	<string>tilde.glif</string>
 	<key>tilde.cap</key>
 	<string>tilde.cap.glif</string>
 	<key>trademark</key>
 	<string>trademark.glif</string>
+	<key>tt-deva</key>
+	<string>tt-deva.glif</string>
+	<key>tt_ra-deva</key>
+	<string>tt_ra-deva.glif</string>
+	<key>tt_tta-deva</key>
+	<string>tt_tta-deva.glif</string>
+	<key>tt_ttha-deva</key>
+	<string>tt_ttha-deva.glif</string>
+	<key>tt_va-deva</key>
+	<string>tt_va-deva.glif</string>
+	<key>tt_ya-deva</key>
+	<string>tt_ya-deva.glif</string>
+	<key>tta-deva</key>
+	<string>tta-deva.glif</string>
+	<key>tth-deva</key>
+	<string>tth-deva.glif</string>
+	<key>tth_r-deva</key>
+	<string>tth_r-deva.glif</string>
+	<key>tth_ra-deva</key>
+	<string>tth_ra-deva.glif</string>
+	<key>tth_ttha-deva</key>
+	<string>tth_ttha-deva.glif</string>
+	<key>tth_ya-deva</key>
+	<string>tth_ya-deva.glif</string>
+	<key>ttha-deva</key>
+	<string>ttha-deva.glif</string>
 	<key>two</key>
 	<string>two.glif</string>
+	<key>two-deva</key>
+	<string>two-deva.glif</string>
+	<key>two.offenbach</key>
+	<string>two.offenbach.glif</string>
+	<key>twosuperior</key>
+	<string>twosuperior.glif</string>
 	<key>u</key>
 	<string>u.glif</string>
+	<key>u-deva</key>
+	<string>u-deva.glif</string>
+	<key>uMatra-deva</key>
+	<string>uM_atra-deva.glif</string>
+	<key>uMatra-deva.alt</key>
+	<string>uM_atra-deva.alt.glif</string>
 	<key>uacute</key>
 	<string>uacute.glif</string>
 	<key>ucircumflex</key>
 	<string>ucircumflex.glif</string>
+	<key>udatta-deva</key>
+	<string>udatta-deva.glif</string>
 	<key>udieresis</key>
 	<string>udieresis.glif</string>
+	<key>ue-deva</key>
+	<string>ue-deva.glif</string>
+	<key>ueMatra-deva</key>
+	<string>ueM_atra-deva.glif</string>
 	<key>ugrave</key>
 	<string>ugrave.glif</string>
 	<key>uhungarumlaut</key>
@@ -668,772 +1374,60 @@
 	<string>umacron.glif</string>
 	<key>underscore</key>
 	<string>underscore.glif</string>
-	<key>uni00A0</key>
-	<string>uni00A_0.glif</string>
-	<key>uni00AD</key>
-	<string>uni00A_D_.glif</string>
-	<key>uni00B2</key>
-	<string>uni00B_2.glif</string>
-	<key>uni00B3</key>
-	<string>uni00B_3.glif</string>
-	<key>uni00B9</key>
-	<string>uni00B_9.glif</string>
-	<key>uni021A</key>
-	<string>uni021A_.glif</string>
-	<key>uni021B</key>
-	<string>uni021B_.glif</string>
-	<key>uni0237</key>
-	<string>uni0237.glif</string>
-	<key>uni0326</key>
-	<string>uni0326.glif</string>
-	<key>uni0326.alt</key>
-	<string>uni0326.alt.glif</string>
-	<key>uni0901</key>
-	<string>uni0901.glif</string>
-	<key>uni0902</key>
-	<string>uni0902.glif</string>
-	<key>uni0903</key>
-	<string>uni0903.glif</string>
-	<key>uni0904</key>
-	<string>uni0904.glif</string>
-	<key>uni0905</key>
-	<string>uni0905.glif</string>
-	<key>uni0906</key>
-	<string>uni0906.glif</string>
-	<key>uni0907</key>
-	<string>uni0907.glif</string>
-	<key>uni0908</key>
-	<string>uni0908.glif</string>
-	<key>uni09080902</key>
-	<string>uni09080902.glif</string>
-	<key>uni0909</key>
-	<string>uni0909.glif</string>
-	<key>uni090A</key>
-	<string>uni090A_.glif</string>
-	<key>uni090B</key>
-	<string>uni090B_.glif</string>
-	<key>uni090C</key>
-	<string>uni090C_.glif</string>
-	<key>uni090D</key>
-	<string>uni090D_.glif</string>
-	<key>uni090E</key>
-	<string>uni090E_.glif</string>
-	<key>uni090F</key>
-	<string>uni090F_.glif</string>
-	<key>uni0910</key>
-	<string>uni0910.glif</string>
-	<key>uni0911</key>
-	<string>uni0911.glif</string>
-	<key>uni0912</key>
-	<string>uni0912.glif</string>
-	<key>uni0913</key>
-	<string>uni0913.glif</string>
-	<key>uni0914</key>
-	<string>uni0914.glif</string>
-	<key>uni0915</key>
-	<string>uni0915.glif</string>
-	<key>uni0915094D</key>
-	<string>uni0915094D_.glif</string>
-	<key>uni0915094D0072</key>
-	<string>uni0915094D_0072.glif</string>
-	<key>uni0915094D0915</key>
-	<string>uni0915094D_0915.glif</string>
-	<key>uni0915094D0924</key>
-	<string>uni0915094D_0924.glif</string>
-	<key>uni0915094D0930</key>
-	<string>uni0915094D_0930.glif</string>
-	<key>uni0915094D0930.loclNEP</key>
-	<string>uni0915094D_0930.loclN_E_P_.glif</string>
-	<key>uni0915094D0932</key>
-	<string>uni0915094D_0932.glif</string>
-	<key>uni0915094D0935</key>
-	<string>uni0915094D_0935.glif</string>
-	<key>uni0915094D0937</key>
-	<string>uni0915094D_0937.glif</string>
-	<key>uni0915094D0937094D</key>
-	<string>uni0915094D_0937094D_.glif</string>
-	<key>uni0915094D0937094D0930</key>
-	<string>uni0915094D_0937094D_0930.glif</string>
-	<key>uni0916</key>
-	<string>uni0916.glif</string>
-	<key>uni0916094D</key>
-	<string>uni0916094D_.glif</string>
-	<key>uni0916094D0072</key>
-	<string>uni0916094D_0072.glif</string>
-	<key>uni0916094D0930</key>
-	<string>uni0916094D_0930.glif</string>
-	<key>uni0917</key>
-	<string>uni0917.glif</string>
-	<key>uni0917094D</key>
-	<string>uni0917094D_.glif</string>
-	<key>uni0917094D0072</key>
-	<string>uni0917094D_0072.glif</string>
-	<key>uni0917094D0928</key>
-	<string>uni0917094D_0928.glif</string>
-	<key>uni0917094D0930</key>
-	<string>uni0917094D_0930.glif</string>
-	<key>uni0918</key>
-	<string>uni0918.glif</string>
-	<key>uni0918094D</key>
-	<string>uni0918094D_.glif</string>
-	<key>uni0918094D0072</key>
-	<string>uni0918094D_0072.glif</string>
-	<key>uni0918094D0928</key>
-	<string>uni0918094D_0928.glif</string>
-	<key>uni0918094D0930</key>
-	<string>uni0918094D_0930.glif</string>
-	<key>uni0919</key>
-	<string>uni0919.glif</string>
-	<key>uni0919094D</key>
-	<string>uni0919094D_.glif</string>
-	<key>uni0919094D0915</key>
-	<string>uni0919094D_0915.glif</string>
-	<key>uni0919094D0915094D</key>
-	<string>uni0919094D_0915094D_.glif</string>
-	<key>uni0919094D0915094D0937</key>
-	<string>uni0919094D_0915094D_0937.glif</string>
-	<key>uni0919094D0916</key>
-	<string>uni0919094D_0916.glif</string>
-	<key>uni0919094D0917</key>
-	<string>uni0919094D_0917.glif</string>
-	<key>uni0919094D0918</key>
-	<string>uni0919094D_0918.glif</string>
-	<key>uni0919094D092E</key>
-	<string>uni0919094D_092E_.glif</string>
-	<key>uni0919094D0930</key>
-	<string>uni0919094D_0930.glif</string>
-	<key>uni091A</key>
-	<string>uni091A_.glif</string>
-	<key>uni091A094D</key>
-	<string>uni091A_094D_.glif</string>
-	<key>uni091A094D091A</key>
-	<string>uni091A_094D_091A_.glif</string>
-	<key>uni091A094D091B</key>
-	<string>uni091A_094D_091B_.glif</string>
-	<key>uni091A094D0930</key>
-	<string>uni091A_094D_0930.glif</string>
-	<key>uni091B</key>
-	<string>uni091B_.glif</string>
-	<key>uni091B094D</key>
-	<string>uni091B_094D_.glif</string>
-	<key>uni091B094D0930</key>
-	<string>uni091B_094D_0930.glif</string>
-	<key>uni091B094D0935</key>
-	<string>uni091B_094D_0935.glif</string>
-	<key>uni091C</key>
-	<string>uni091C_.glif</string>
-	<key>uni091C094D</key>
-	<string>uni091C_094D_.glif</string>
-	<key>uni091C094D091C</key>
-	<string>uni091C_094D_091C_.glif</string>
-	<key>uni091C094D091C094D</key>
-	<string>uni091C_094D_091C_094D_.glif</string>
-	<key>uni091C094D091E</key>
-	<string>uni091C_094D_091E_.glif</string>
-	<key>uni091C094D091E.akhn</key>
-	<string>uni091C_094D_091E_.akhn.glif</string>
-	<key>uni091C094D091E094D</key>
-	<string>uni091C_094D_091E_094D_.glif</string>
-	<key>uni091C094D091E094D0930</key>
-	<string>uni091C_094D_091E_094D_0930.glif</string>
-	<key>uni091C094D0930</key>
-	<string>uni091C_094D_0930.glif</string>
-	<key>uni091D</key>
-	<string>uni091D_.glif</string>
-	<key>uni091D.loclNEP</key>
-	<string>uni091D_.loclN_E_P_.glif</string>
-	<key>uni091D094D</key>
-	<string>uni091D_094D_.glif</string>
-	<key>uni091D094D.loclNEP</key>
-	<string>uni091D_094D_.loclN_E_P_.glif</string>
-	<key>uni091D094D0930</key>
-	<string>uni091D_094D_0930.glif</string>
-	<key>uni091E</key>
-	<string>uni091E_.glif</string>
-	<key>uni091E094D</key>
-	<string>uni091E_094D_.glif</string>
-	<key>uni091E094D091A</key>
-	<string>uni091E_094D_091A_.glif</string>
-	<key>uni091E094D091C</key>
-	<string>uni091E_094D_091C_.glif</string>
-	<key>uni091E094D0930</key>
-	<string>uni091E_094D_0930.glif</string>
-	<key>uni091F</key>
-	<string>uni091F_.glif</string>
-	<key>uni091F094D</key>
-	<string>uni091F_094D_.glif</string>
-	<key>uni091F094D091F</key>
-	<string>uni091F_094D_091F_.glif</string>
-	<key>uni091F094D0920</key>
-	<string>uni091F_094D_0920.glif</string>
-	<key>uni091F094D092F</key>
-	<string>uni091F_094D_092F_.glif</string>
-	<key>uni091F094D0930</key>
-	<string>uni091F_094D_0930.glif</string>
-	<key>uni091F094D0935</key>
-	<string>uni091F_094D_0935.glif</string>
-	<key>uni0920</key>
-	<string>uni0920.glif</string>
-	<key>uni0920094D</key>
-	<string>uni0920094D_.glif</string>
-	<key>uni0920094D0072</key>
-	<string>uni0920094D_0072.glif</string>
-	<key>uni0920094D0920</key>
-	<string>uni0920094D_0920.glif</string>
-	<key>uni0920094D092F</key>
-	<string>uni0920094D_092F_.glif</string>
-	<key>uni0920094D0930</key>
-	<string>uni0920094D_0930.glif</string>
-	<key>uni0921</key>
-	<string>uni0921.glif</string>
-	<key>uni0921094D</key>
-	<string>uni0921094D_.glif</string>
-	<key>uni0921094D0072</key>
-	<string>uni0921094D_0072.glif</string>
-	<key>uni0921094D0921</key>
-	<string>uni0921094D_0921.glif</string>
-	<key>uni0921094D0922</key>
-	<string>uni0921094D_0922.glif</string>
-	<key>uni0921094D092F</key>
-	<string>uni0921094D_092F_.glif</string>
-	<key>uni0921094D0930</key>
-	<string>uni0921094D_0930.glif</string>
-	<key>uni0922</key>
-	<string>uni0922.glif</string>
-	<key>uni0922094D</key>
-	<string>uni0922094D_.glif</string>
-	<key>uni0922094D0072</key>
-	<string>uni0922094D_0072.glif</string>
-	<key>uni0922094D0922</key>
-	<string>uni0922094D_0922.glif</string>
-	<key>uni0922094D092F</key>
-	<string>uni0922094D_092F_.glif</string>
-	<key>uni0922094D0930</key>
-	<string>uni0922094D_0930.glif</string>
-	<key>uni0923</key>
-	<string>uni0923.glif</string>
-	<key>uni0923094D</key>
-	<string>uni0923094D_.glif</string>
-	<key>uni0923094D0930</key>
-	<string>uni0923094D_0930.glif</string>
-	<key>uni0924</key>
-	<string>uni0924.glif</string>
-	<key>uni0924094D</key>
-	<string>uni0924094D_.glif</string>
-	<key>uni0924094D0072</key>
-	<string>uni0924094D_0072.glif</string>
-	<key>uni0924094D0924</key>
-	<string>uni0924094D_0924.glif</string>
-	<key>uni0924094D0924094D</key>
-	<string>uni0924094D_0924094D_.glif</string>
-	<key>uni0924094D092F</key>
-	<string>uni0924094D_092F_.glif</string>
-	<key>uni0924094D0930</key>
-	<string>uni0924094D_0930.glif</string>
-	<key>uni0925</key>
-	<string>uni0925.glif</string>
-	<key>uni0925094D</key>
-	<string>uni0925094D_.glif</string>
-	<key>uni0925094D0930</key>
-	<string>uni0925094D_0930.glif</string>
-	<key>uni0926</key>
-	<string>uni0926.glif</string>
-	<key>uni0926094D</key>
-	<string>uni0926094D_.glif</string>
-	<key>uni0926094D0917</key>
-	<string>uni0926094D_0917.glif</string>
-	<key>uni0926094D0918</key>
-	<string>uni0926094D_0918.glif</string>
-	<key>uni0926094D0926</key>
-	<string>uni0926094D_0926.glif</string>
-	<key>uni0926094D0927094D0072092F</key>
-	<string>uni0926094D_0927094D_0072092F_.glif</string>
-	<key>uni0926094D0927094D0930</key>
-	<string>uni0926094D_0927094D_0930.glif</string>
-	<key>uni0926094D0928</key>
-	<string>uni0926094D_0928.glif</string>
-	<key>uni0926094D092C</key>
-	<string>uni0926094D_092C_.glif</string>
-	<key>uni0926094D092D</key>
-	<string>uni0926094D_092D_.glif</string>
-	<key>uni0926094D092E</key>
-	<string>uni0926094D_092E_.glif</string>
-	<key>uni0926094D092F</key>
-	<string>uni0926094D_092F_.glif</string>
-	<key>uni0926094D0930</key>
-	<string>uni0926094D_0930.glif</string>
-	<key>uni0926094D0935</key>
-	<string>uni0926094D_0935.glif</string>
-	<key>uni0926094D0943</key>
-	<string>uni0926094D_0943.glif</string>
-	<key>uni0927</key>
-	<string>uni0927.glif</string>
-	<key>uni0927094D</key>
-	<string>uni0927094D_.glif</string>
-	<key>uni0927094D0930</key>
-	<string>uni0927094D_0930.glif</string>
-	<key>uni0928</key>
-	<string>uni0928.glif</string>
-	<key>uni0928.post</key>
-	<string>uni0928.post.glif</string>
-	<key>uni0928094D</key>
-	<string>uni0928094D_.glif</string>
-	<key>uni0928094D0924094D0930</key>
-	<string>uni0928094D_0924094D_0930.glif</string>
-	<key>uni0928094D0928</key>
-	<string>uni0928094D_0928.glif</string>
-	<key>uni0928094D092D</key>
-	<string>uni0928094D_092D_.glif</string>
-	<key>uni0928094D092E</key>
-	<string>uni0928094D_092E_.glif</string>
-	<key>uni0928094D0930</key>
-	<string>uni0928094D_0930.glif</string>
-	<key>uni0929</key>
-	<string>uni0929.glif</string>
-	<key>uni0929094D</key>
-	<string>uni0929094D_.glif</string>
-	<key>uni092A</key>
-	<string>uni092A_.glif</string>
-	<key>uni092A094D</key>
-	<string>uni092A_094D_.glif</string>
-	<key>uni092A094D0072</key>
-	<string>uni092A_094D_0072.glif</string>
-	<key>uni092A094D0924</key>
-	<string>uni092A_094D_0924.glif</string>
-	<key>uni092A094D0930</key>
-	<string>uni092A_094D_0930.glif</string>
-	<key>uni092A094D0932</key>
-	<string>uni092A_094D_0932.glif</string>
-	<key>uni092B</key>
-	<string>uni092B_.glif</string>
-	<key>uni092B094D</key>
-	<string>uni092B_094D_.glif</string>
-	<key>uni092B094D0930</key>
-	<string>uni092B_094D_0930.glif</string>
-	<key>uni092B094D0932</key>
-	<string>uni092B_094D_0932.glif</string>
-	<key>uni092C</key>
-	<string>uni092C_.glif</string>
-	<key>uni092C094D</key>
-	<string>uni092C_094D_.glif</string>
-	<key>uni092C094D0930</key>
-	<string>uni092C_094D_0930.glif</string>
-	<key>uni092D</key>
-	<string>uni092D_.glif</string>
-	<key>uni092D094D</key>
-	<string>uni092D_094D_.glif</string>
-	<key>uni092D094D0930</key>
-	<string>uni092D_094D_0930.glif</string>
-	<key>uni092E</key>
-	<string>uni092E_.glif</string>
-	<key>uni092E094D</key>
-	<string>uni092E_094D_.glif</string>
-	<key>uni092E094D0930</key>
-	<string>uni092E_094D_0930.glif</string>
-	<key>uni092F</key>
-	<string>uni092F_.glif</string>
-	<key>uni092F.post</key>
-	<string>uni092F_.post.glif</string>
-	<key>uni092F094D</key>
-	<string>uni092F_094D_.glif</string>
-	<key>uni092F094D0930</key>
-	<string>uni092F_094D_0930.glif</string>
-	<key>uni0930</key>
-	<string>uni0930.glif</string>
-	<key>uni0930.post</key>
-	<string>uni0930.post.glif</string>
-	<key>uni09300941</key>
-	<string>uni09300941.glif</string>
-	<key>uni09300942</key>
-	<string>uni09300942.glif</string>
-	<key>uni0930094D</key>
-	<string>uni0930094D_.glif</string>
-	<key>uni0930094D.loclMAR</key>
-	<string>uni0930094D_.loclM_A_R_.glif</string>
-	<key>uni0930094D0902</key>
-	<string>uni0930094D_0902.glif</string>
-	<key>uni0931</key>
-	<string>uni0931.glif</string>
-	<key>uni0931094D</key>
-	<string>uni0931094D_.glif</string>
-	<key>uni0932</key>
-	<string>uni0932.glif</string>
-	<key>uni0932.loclMAR</key>
-	<string>uni0932.loclM_A_R_.glif</string>
-	<key>uni0932094D</key>
-	<string>uni0932094D_.glif</string>
-	<key>uni0932094D.loclMAR</key>
-	<string>uni0932094D_.loclM_A_R_.glif</string>
-	<key>uni0932094D0930</key>
-	<string>uni0932094D_0930.glif</string>
-	<key>uni0932094D0932</key>
-	<string>uni0932094D_0932.glif</string>
-	<key>uni0933</key>
-	<string>uni0933.glif</string>
-	<key>uni0933094D</key>
-	<string>uni0933094D_.glif</string>
-	<key>uni0933094D0930</key>
-	<string>uni0933094D_0930.glif</string>
-	<key>uni0934</key>
-	<string>uni0934.glif</string>
-	<key>uni0934094D</key>
-	<string>uni0934094D_.glif</string>
-	<key>uni0935</key>
-	<string>uni0935.glif</string>
-	<key>uni0935.post</key>
-	<string>uni0935.post.glif</string>
-	<key>uni0935094D</key>
-	<string>uni0935094D_.glif</string>
-	<key>uni0935094D0930</key>
-	<string>uni0935094D_0930.glif</string>
-	<key>uni0936</key>
-	<string>uni0936.glif</string>
-	<key>uni0936.loclMAR</key>
-	<string>uni0936.loclM_A_R_.glif</string>
-	<key>uni0936094D</key>
-	<string>uni0936094D_.glif</string>
-	<key>uni0936094D.loclMAR</key>
-	<string>uni0936094D_.loclM_A_R_.glif</string>
-	<key>uni0936094D0072</key>
-	<string>uni0936094D_0072.glif</string>
-	<key>uni0936094D0072091A</key>
-	<string>uni0936094D_0072091A_.glif</string>
-	<key>uni0936094D00720928</key>
-	<string>uni0936094D_00720928.glif</string>
-	<key>uni0936094D091A</key>
-	<string>uni0936094D_091A_.glif</string>
-	<key>uni0936094D0930</key>
-	<string>uni0936094D_0930.glif</string>
-	<key>uni0936094D0932</key>
-	<string>uni0936094D_0932.glif</string>
-	<key>uni0936094D0935</key>
-	<string>uni0936094D_0935.glif</string>
-	<key>uni0936094D0943</key>
-	<string>uni0936094D_0943.glif</string>
-	<key>uni0937</key>
-	<string>uni0937.glif</string>
-	<key>uni0937094D</key>
-	<string>uni0937094D_.glif</string>
-	<key>uni0937094D091F</key>
-	<string>uni0937094D_091F_.glif</string>
-	<key>uni0937094D091F094D0930</key>
-	<string>uni0937094D_091F_094D_0930.glif</string>
-	<key>uni0937094D0920</key>
-	<string>uni0937094D_0920.glif</string>
-	<key>uni0937094D0920094D0930</key>
-	<string>uni0937094D_0920094D_0930.glif</string>
-	<key>uni0937094D0930</key>
-	<string>uni0937094D_0930.glif</string>
-	<key>uni0938</key>
-	<string>uni0938.glif</string>
-	<key>uni0938094D</key>
-	<string>uni0938094D_.glif</string>
-	<key>uni0938094D0924094D0930</key>
-	<string>uni0938094D_0924094D_0930.glif</string>
-	<key>uni0938094D0930</key>
-	<string>uni0938094D_0930.glif</string>
-	<key>uni0939</key>
-	<string>uni0939.glif</string>
-	<key>uni09390941</key>
-	<string>uni09390941.glif</string>
-	<key>uni09390942</key>
-	<string>uni09390942.glif</string>
-	<key>uni09390943</key>
-	<string>uni09390943.glif</string>
-	<key>uni0939094D</key>
-	<string>uni0939094D_.glif</string>
-	<key>uni0939094D0923</key>
-	<string>uni0939094D_0923.glif</string>
-	<key>uni0939094D0928</key>
-	<string>uni0939094D_0928.glif</string>
-	<key>uni0939094D092E</key>
-	<string>uni0939094D_092E_.glif</string>
-	<key>uni0939094D092F</key>
-	<string>uni0939094D_092F_.glif</string>
-	<key>uni0939094D0930</key>
-	<string>uni0939094D_0930.glif</string>
-	<key>uni0939094D0932</key>
-	<string>uni0939094D_0932.glif</string>
-	<key>uni0939094D0935</key>
-	<string>uni0939094D_0935.glif</string>
-	<key>uni093A</key>
-	<string>uni093A_.glif</string>
-	<key>uni093B</key>
-	<string>uni093B_.glif</string>
-	<key>uni093C</key>
-	<string>uni093C_.glif</string>
-	<key>uni093D</key>
-	<string>uni093D_.glif</string>
-	<key>uni093E</key>
-	<string>uni093E_.glif</string>
-	<key>uni093F</key>
-	<string>uni093F_.glif</string>
-	<key>uni093F.0</key>
-	<string>uni093F_.0.glif</string>
-	<key>uni093F.05</key>
-	<string>uni093F_.05.glif</string>
-	<key>uni093F.10</key>
-	<string>uni093F_.10.glif</string>
-	<key>uni093F0902</key>
-	<string>uni093F_0902.glif</string>
-	<key>uni093F0902.0</key>
-	<string>uni093F_0902.0.glif</string>
-	<key>uni093F0902.05</key>
-	<string>uni093F_0902.05.glif</string>
-	<key>uni093F0902.10</key>
-	<string>uni093F_0902.10.glif</string>
-	<key>uni093F0930094D</key>
-	<string>uni093F_0930094D_.glif</string>
-	<key>uni093F0930094D.0</key>
-	<string>uni093F_0930094D_.0.glif</string>
-	<key>uni093F0930094D.05</key>
-	<string>uni093F_0930094D_.05.glif</string>
-	<key>uni093F0930094D.10</key>
-	<string>uni093F_0930094D_.10.glif</string>
-	<key>uni093F0930094D0902</key>
-	<string>uni093F_0930094D_0902.glif</string>
-	<key>uni093F0930094D0902.0</key>
-	<string>uni093F_0930094D_0902.0.glif</string>
-	<key>uni093F0930094D0902.05</key>
-	<string>uni093F_0930094D_0902.05.glif</string>
-	<key>uni093F0930094D0902.10</key>
-	<string>uni093F_0930094D_0902.10.glif</string>
-	<key>uni0940</key>
-	<string>uni0940.glif</string>
-	<key>uni0940.02</key>
-	<string>uni0940.02.glif</string>
-	<key>uni09400902</key>
-	<string>uni09400902.glif</string>
-	<key>uni09400902.02</key>
-	<string>uni09400902.02.glif</string>
-	<key>uni09400930094D</key>
-	<string>uni09400930094D_.glif</string>
-	<key>uni09400930094D.02</key>
-	<string>uni09400930094D_.02.glif</string>
-	<key>uni09400930094D0902</key>
-	<string>uni09400930094D_0902.glif</string>
-	<key>uni09400930094D0902.02</key>
-	<string>uni09400930094D_0902.02.glif</string>
-	<key>uni0941</key>
-	<string>uni0941.glif</string>
-	<key>uni0941.alt</key>
-	<string>uni0941.alt.glif</string>
-	<key>uni0942</key>
-	<string>uni0942.glif</string>
-	<key>uni0942.alt</key>
-	<string>uni0942.alt.glif</string>
-	<key>uni0943</key>
-	<string>uni0943.glif</string>
-	<key>uni0944</key>
-	<string>uni0944.glif</string>
-	<key>uni0945</key>
-	<string>uni0945.glif</string>
-	<key>uni0946</key>
-	<string>uni0946.glif</string>
-	<key>uni0947</key>
-	<string>uni0947.glif</string>
-	<key>uni09470902</key>
-	<string>uni09470902.glif</string>
-	<key>uni09470930094D</key>
-	<string>uni09470930094D_.glif</string>
-	<key>uni09470930094D0902</key>
-	<string>uni09470930094D_0902.glif</string>
-	<key>uni0948</key>
-	<string>uni0948.glif</string>
-	<key>uni09480902</key>
-	<string>uni09480902.glif</string>
-	<key>uni09480930094D</key>
-	<string>uni09480930094D_.glif</string>
-	<key>uni09480930094D0902</key>
-	<string>uni09480930094D_0902.glif</string>
-	<key>uni0949</key>
-	<string>uni0949.glif</string>
-	<key>uni094A</key>
-	<string>uni094A_.glif</string>
-	<key>uni094B</key>
-	<string>uni094B_.glif</string>
-	<key>uni094B0902</key>
-	<string>uni094B_0902.glif</string>
-	<key>uni094B0930094D</key>
-	<string>uni094B_0930094D_.glif</string>
-	<key>uni094B0930094D0902</key>
-	<string>uni094B_0930094D_0902.glif</string>
-	<key>uni094C</key>
-	<string>uni094C_.glif</string>
-	<key>uni094C0902</key>
-	<string>uni094C_0902.glif</string>
-	<key>uni094C0930094D</key>
-	<string>uni094C_0930094D_.glif</string>
-	<key>uni094C0930094D0902</key>
-	<string>uni094C_0930094D_0902.glif</string>
-	<key>uni094D</key>
-	<string>uni094D_.glif</string>
-	<key>uni094D0930</key>
-	<string>uni094D_0930.glif</string>
-	<key>uni094D09300941</key>
-	<string>uni094D_09300941.glif</string>
-	<key>uni094D09300942</key>
-	<string>uni094D_09300942.glif</string>
-	<key>uni0950</key>
-	<string>uni0950.glif</string>
-	<key>uni0951</key>
-	<string>uni0951.glif</string>
-	<key>uni0952</key>
-	<string>uni0952.glif</string>
-	<key>uni0953</key>
-	<string>uni0953.glif</string>
-	<key>uni0954</key>
-	<string>uni0954.glif</string>
-	<key>uni0956</key>
-	<string>uni0956.glif</string>
-	<key>uni0957</key>
-	<string>uni0957.glif</string>
-	<key>uni0958</key>
-	<string>uni0958.glif</string>
-	<key>uni0958094D</key>
-	<string>uni0958094D_.glif</string>
-	<key>uni0959</key>
-	<string>uni0959.glif</string>
-	<key>uni0959094D</key>
-	<string>uni0959094D_.glif</string>
-	<key>uni095A</key>
-	<string>uni095A_.glif</string>
-	<key>uni095A094D</key>
-	<string>uni095A_094D_.glif</string>
-	<key>uni095B</key>
-	<string>uni095B_.glif</string>
-	<key>uni095B094D</key>
-	<string>uni095B_094D_.glif</string>
-	<key>uni095C</key>
-	<string>uni095C_.glif</string>
-	<key>uni095D</key>
-	<string>uni095D_.glif</string>
-	<key>uni095E</key>
-	<string>uni095E_.glif</string>
-	<key>uni095E094D</key>
-	<string>uni095E_094D_.glif</string>
-	<key>uni095E094D0930</key>
-	<string>uni095E_094D_0930.glif</string>
-	<key>uni095F</key>
-	<string>uni095F_.glif</string>
-	<key>uni0960</key>
-	<string>uni0960.glif</string>
-	<key>uni0961</key>
-	<string>uni0961.glif</string>
-	<key>uni0962</key>
-	<string>uni0962.glif</string>
-	<key>uni0963</key>
-	<string>uni0963.glif</string>
-	<key>uni0964</key>
-	<string>uni0964.glif</string>
-	<key>uni0965</key>
-	<string>uni0965.glif</string>
-	<key>uni0966</key>
-	<string>uni0966.glif</string>
-	<key>uni0967</key>
-	<string>uni0967.glif</string>
-	<key>uni0968</key>
-	<string>uni0968.glif</string>
-	<key>uni0969</key>
-	<string>uni0969.glif</string>
-	<key>uni096A</key>
-	<string>uni096A_.glif</string>
-	<key>uni096B</key>
-	<string>uni096B_.glif</string>
-	<key>uni096B.loclNEP</key>
-	<string>uni096B_.loclN_E_P_.glif</string>
-	<key>uni096C</key>
-	<string>uni096C_.glif</string>
-	<key>uni096D</key>
-	<string>uni096D_.glif</string>
-	<key>uni096E</key>
-	<string>uni096E_.glif</string>
-	<key>uni096E.loclNEP</key>
-	<string>uni096E_.loclN_E_P_.glif</string>
-	<key>uni096F</key>
-	<string>uni096F_.glif</string>
-	<key>uni0970</key>
-	<string>uni0970.glif</string>
-	<key>uni0971</key>
-	<string>uni0971.glif</string>
-	<key>uni0972</key>
-	<string>uni0972.glif</string>
-	<key>uni0973</key>
-	<string>uni0973.glif</string>
-	<key>uni0974</key>
-	<string>uni0974.glif</string>
-	<key>uni0976</key>
-	<string>uni0976.glif</string>
-	<key>uni0977</key>
-	<string>uni0977.glif</string>
-	<key>uni0979</key>
-	<string>uni0979.glif</string>
-	<key>uni0979.loclNEP</key>
-	<string>uni0979.loclN_E_P_.glif</string>
-	<key>uni097A</key>
-	<string>uni097A_.glif</string>
-	<key>uni097B</key>
-	<string>uni097B_.glif</string>
-	<key>uni097C</key>
-	<string>uni097C_.glif</string>
-	<key>uni097D</key>
-	<string>uni097D_.glif</string>
-	<key>uni097E</key>
-	<string>uni097E_.glif</string>
-	<key>uni097F</key>
-	<string>uni097F_.glif</string>
-	<key>uni2000</key>
-	<string>uni2000.glif</string>
-	<key>uni2001</key>
-	<string>uni2001.glif</string>
-	<key>uni2002</key>
-	<string>uni2002.glif</string>
-	<key>uni2003</key>
-	<string>uni2003.glif</string>
-	<key>uni2004</key>
-	<string>uni2004.glif</string>
-	<key>uni2005</key>
-	<string>uni2005.glif</string>
-	<key>uni2006</key>
-	<string>uni2006.glif</string>
-	<key>uni2007</key>
-	<string>uni2007.glif</string>
-	<key>uni2008</key>
-	<string>uni2008.glif</string>
-	<key>uni2009</key>
-	<string>uni2009.glif</string>
-	<key>uni200A</key>
-	<string>uni200A_.glif</string>
-	<key>uni200C</key>
-	<string>uni200C_.glif</string>
-	<key>uni200D</key>
-	<string>uni200D_.glif</string>
-	<key>uni20B9</key>
-	<string>uni20B_9.glif</string>
-	<key>uni2206</key>
-	<string>uni2206.glif</string>
-	<key>uni25CC</key>
-	<string>uni25C_C_.glif</string>
 	<key>uogonek</key>
 	<string>uogonek.glif</string>
 	<key>uring</key>
 	<string>uring.glif</string>
+	<key>uu-deva</key>
+	<string>uu-deva.glif</string>
+	<key>uuMatra-deva</key>
+	<string>uuM_atra-deva.glif</string>
+	<key>uuMatra-deva.alt</key>
+	<string>uuM_atra-deva.alt.glif</string>
+	<key>uue-deva</key>
+	<string>uue-deva.glif</string>
+	<key>uueMatra-deva</key>
+	<string>uueM_atra-deva.glif</string>
 	<key>v</key>
 	<string>v.glif</string>
+	<key>v-deva</key>
+	<string>v-deva.glif</string>
+	<key>v_ra-deva</key>
+	<string>v_ra-deva.glif</string>
+	<key>va-deva</key>
+	<string>va-deva.glif</string>
+	<key>va-deva.post</key>
+	<string>va-deva.post.glif</string>
+	<key>visarga-deva</key>
+	<string>visarga-deva.glif</string>
 	<key>w</key>
 	<string>w.glif</string>
 	<key>x</key>
 	<string>x.glif</string>
 	<key>y</key>
 	<string>y.glif</string>
+	<key>y-deva</key>
+	<string>y-deva.glif</string>
+	<key>y_ra-deva</key>
+	<string>y_ra-deva.glif</string>
+	<key>ya-deva</key>
+	<string>ya-deva.glif</string>
+	<key>ya-deva.post</key>
+	<string>ya-deva.post.glif</string>
 	<key>yacute</key>
 	<string>yacute.glif</string>
 	<key>ydieresis</key>
 	<string>ydieresis.glif</string>
 	<key>yen</key>
 	<string>yen.glif</string>
+	<key>yya-deva</key>
+	<string>yya-deva.glif</string>
 	<key>z</key>
 	<string>z.glif</string>
+	<key>z-deva</key>
+	<string>z-deva.glif</string>
+	<key>za-deva</key>
+	<string>za-deva.glif</string>
 	<key>zacute</key>
 	<string>zacute.glif</string>
 	<key>zcaron</key>
@@ -1442,7 +1436,17 @@
 	<string>zdotaccent.glif</string>
 	<key>zero</key>
 	<string>zero.glif</string>
+	<key>zero-deva</key>
+	<string>zero-deva.glif</string>
 	<key>zero.superior</key>
 	<string>zero.superior.glif</string>
+	<key>zerowidthjoiner</key>
+	<string>zerowidthjoiner.glif</string>
+	<key>zerowidthnonjoiner</key>
+	<string>zerowidthnonjoiner.glif</string>
+	<key>zha-deva</key>
+	<string>zha-deva.glif</string>
+	<key>zha-deva.loclNEP</key>
+	<string>zha-deva.loclN_E_P_.glif</string>
 </dict>
 </plist>

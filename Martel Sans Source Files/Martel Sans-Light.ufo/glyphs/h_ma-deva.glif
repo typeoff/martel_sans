@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="h_ma-deva" format="1">
+  <advance width="784"/>
+  <outline>
+    <contour>
+      <point x="201" y="269" type="line"/>
+      <point x="147" y="290"/>
+      <point x="118" y="306"/>
+      <point x="118" y="351" type="curve" smooth="yes"/>
+      <point x="118" y="393"/>
+      <point x="142" y="420"/>
+      <point x="187" y="420" type="curve" smooth="yes"/>
+      <point x="460" y="420" type="line"/>
+      <point x="460" y="590" type="line"/>
+      <point x="784" y="590" type="line"/>
+      <point x="784" y="634" type="line"/>
+      <point x="-21" y="634" type="line"/>
+      <point x="-21" y="590" type="line"/>
+      <point x="410" y="590" type="line"/>
+      <point x="410" y="464" type="line"/>
+      <point x="187" y="464" type="line" smooth="yes"/>
+      <point x="107" y="464"/>
+      <point x="67" y="415"/>
+      <point x="67" y="355" type="curve" smooth="yes"/>
+      <point x="67" y="295"/>
+      <point x="104" y="263"/>
+      <point x="173" y="227" type="curve"/>
+    </contour>
+    <contour>
+      <point x="398" y="-79" type="line"/>
+      <point x="260" y="-8"/>
+      <point x="170" y="58"/>
+      <point x="170" y="161" type="curve" smooth="yes"/>
+      <point x="170" y="232"/>
+      <point x="208" y="275"/>
+      <point x="279" y="275" type="curve" smooth="yes"/>
+      <point x="337" y="275"/>
+      <point x="373" y="241"/>
+      <point x="373" y="166" type="curve"/>
+      <point x="424" y="166" type="line"/>
+      <point x="424" y="270"/>
+      <point x="356" y="319"/>
+      <point x="279" y="319" type="curve" smooth="yes"/>
+      <point x="170" y="319"/>
+      <point x="119" y="244"/>
+      <point x="119" y="160" type="curve" smooth="yes"/>
+      <point x="119" y="58"/>
+      <point x="207" y="-37"/>
+      <point x="374" y="-120" type="curve"/>
+    </contour>
+    <contour>
+      <point x="424" y="142" type="line"/>
+      <point x="373" y="124" type="line"/>
+      <point x="640" y="124" type="line"/>
+      <point x="640" y="168" type="line"/>
+      <point x="377" y="168" type="line"/>
+      <point x="322" y="168"/>
+      <point x="295" y="151"/>
+      <point x="295" y="115" type="curve" smooth="yes"/>
+      <point x="295" y="65"/>
+      <point x="355" y="25"/>
+      <point x="424" y="51" type="curve"/>
+    </contour>
+    <contour>
+      <point x="664" y="0" type="line"/>
+      <point x="664" y="610" type="line"/>
+      <point x="613" y="610" type="line"/>
+      <point x="613" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="103" y="-70" type="move" name="nukta"/>
+    </contour>
+    <contour>
+      <point x="640" y="0" type="move" name="bottom"/>
+    </contour>
+    <contour>
+      <point x="640" y="634" type="move" name="top"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>background</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>h_ma-deva</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>784</integer>
+        </dict>
+        <key>layer_01</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>h_ma-deva</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>784</integer>
+        </dict>
+        <key>layer_02</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>h_ma-deva</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>784</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

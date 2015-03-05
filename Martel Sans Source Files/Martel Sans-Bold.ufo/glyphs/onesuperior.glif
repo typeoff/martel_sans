@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="onesuperior" format="1">
+  <advance width="477"/>
+  <unicode hex="00B9"/>
+  <outline>
+    <contour>
+      <point x="349" y="432" type="line"/>
+      <point x="349" y="840" type="line"/>
+      <point x="222" y="840" type="line"/>
+      <point x="196" y="799" type="line"/>
+      <point x="196" y="432" type="line"/>
+    </contour>
+    <contour>
+      <point x="123" y="738" type="line"/>
+      <point x="283" y="738" type="line"/>
+      <point x="222" y="840" type="line"/>
+      <point x="102" y="840" type="line"/>
+    </contour>
+    <contour>
+      <point x="111" y="432" type="line"/>
+      <point x="434" y="432" type="line"/>
+      <point x="434" y="545" type="line"/>
+      <point x="111" y="545" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>background</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>onesuperior</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>272</integer>
+        </dict>
+        <key>layer_01</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>onesuperior</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>272</integer>
+        </dict>
+        <key>layer_02</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>onesuperior</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>272</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

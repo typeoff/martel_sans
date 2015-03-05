@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name=".notdef" format="1">
-  <advance width="530"/>
+  <advance width="533"/>
   <outline>
     <contour>
-      <point x="-3" y="758" type="line"/>
-      <point x="530" y="758" type="line"/>
-      <point x="530" y="-200" type="line"/>
-      <point x="-3" y="-200" type="line"/>
+      <point x="0" y="758" type="line"/>
+      <point x="533" y="758" type="line"/>
+      <point x="533" y="-200" type="line"/>
+      <point x="0" y="-200" type="line"/>
     </contour>
-    <component base="question"/>
+    <component base="question" xOffset="3"/>
   </outline>
   <lib>
     <dict>

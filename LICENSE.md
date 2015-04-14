@@ -1,4 +1,4 @@
-Copyright (c) 2015 Dan Reynolds. Copyright (c) 2015 Mathieu Réguer.
+Copyright (c) 2014 Dan Reynolds. Copyright (c) 2014 Mathieu Réguer.
 
 This Font Software is licensed under the SIL Open Font License, Version 1.1.
 This license is copied below, and is also available with a FAQ at:

@@ -5,7 +5,9 @@ Martel Sans is a libre font development project. Currently, support for the Deva
 
 Martel Sans is available, libre and gratis, from <a href="http://www.google.com/fonts/specimen/Martel+Sans">Google Fonts</a>. 
 
-The Martel Sans typeface is designed for typesetting immersive-style documents. It may be be used to set long passages of text in languages that are written in the Devanagari script, including Hindi, Marathi, Nepali, Sanskrit, etc. Martel Devanagari is a readable typeface whose glyph proportions are inspired by traditional writing and calligraphic styles. Its high-contrast strokes have a diagonal axis, in keeping with the pen-angle most often used for the Devanagari writing system.
+The Martel Sans typeface is designed for typesetting immersive-style documents. It may be be used to set long passages of text in languages that are written in either the Latin or the Devanagari script, including Indian languages like Hindi, Marathi, Nepali, Sanskrit, etc. 
+
+The Devanagari characters in Martel Sans may be used together with the fonts from the <a href="https://github.com/typeoff/martel">Martel</a> family. Martel has a Devanagari that is a very readable typeface. Its glyph proportions were inspired by traditional writing and calligraphic styles, and its high-contrast strokes have a diagonal axis, in keeping with the pen-angle most often used for the Devanagari writing system. Martel Sans is much more monolinear. Pairing the Devanagari character sets of Martel and Martel Sans is similar to the way designers and developers often use serif and sans serif fonts together with each other in the Latin script.
 
 Two folders are hosted here: <em>Martel Sans Font Files</em> and <em>Martel Sans Source Files</em>. The font files folder  contain both PostScript-flavored OpenType fonts (.otf) and TrueType-flavored fonts (.ttf). The .ttf-files are auto-hinted with ttfautohint version 1.3. All of the font files will be generated with the Glyphs 2 (beta version) font editing application. The source files folder contain a native Glyphs file as well as UFOs exported from Glyphs.
 
